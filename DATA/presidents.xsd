@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+
+<xs:element name="month">
+ <xs:simpleType>
+   <xs:restriction base="xs:string">
+     <xs:enumeration value=""/>
+     <xs:enumeration value="Jan"/>
+     <xs:enumeration value="Feb"/>
+     <xs:enumeration value="Mar"/>
+     <xs:enumeration value="Apr"/>
+     <xs:enumeration value="May"/>
+     <xs:enumeration value="Jun"/>
+     <xs:enumeration value="Jul"/>
+     <xs:enumeration value="Aug"/>
+     <xs:enumeration value="Sep"/>
+     <xs:enumeration value="Oct"/>
+     <xs:enumeration value="Nov"/>
+     <xs:enumeration value="Dec"/>
+   </xs:restriction>
+ </xs:simpleType>
+</xs:element>                    
+
+<xs:element name="year">
+  <xs:simpleType>
+    <xs:restriction base="xs:string">
+      <xs:pattern value="([+-]?[0-9]+)?"/>
+    </xs:restriction>
+  </xs:simpleType>
+</xs:element>
+
+<xs:element name="day">
+  <xs:simpleType>
+    <xs:restriction base="xs:string">
+      <xs:pattern value="([+-]?[0-9]+)?"/>
+    </xs:restriction>
+  </xs:simpleType>
+</xs:element>
+
+  <xs:element name="presidents">
+   <xs:complexType>
+      <xs:sequence>
+       <xs:element name="president" minOccurs="0" maxOccurs="unbounded">
+           <xs:complexType>
+           <xs:sequence>
+                <xs:element name="index" type="xs:positiveInteger"/>
+                <xs:element name="name" minOccurs="1" maxOccurs="1">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="last" type="xs:string"/>
+                      <xs:element name="first" type="xs:string"/>
+                   </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+                <xs:element name="termstart">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element ref="year"/>
+                      <xs:element ref="month"/>
+                      <xs:element ref="day"/>
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+                <xs:element name="termend">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element ref="year"/>
+                      <xs:element ref="month"/>
+                       <xs:element ref="day"/>
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+                <xs:element name="birthplace" type="xs:string"/>
+                <xs:element name="birthstate" type="xs:string"/>
+                <xs:element name="birth">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element ref="year"/>
+                      <xs:element ref="month"/>
+                       <xs:element ref="day"/>
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+                <xs:element name="death">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element ref="year"/>
+                      <xs:element ref="month"/>
+                       <xs:element ref="day"/>
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+                <xs:element name="party" type="xs:string"/>
+              </xs:sequence>
+           </xs:complexType>
+       </xs:element>
+     </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,5417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<records>
+<record>
+	<leader>01959cam  22006971  4500</leader>
+	<controlfield tag="001">BK0000025070</controlfield>
+	<controlfield tag="005">20041105181219.0</controlfield>
+	<controlfield tag="008">780526t19631953nyu           000 1 eng  </controlfield>
+	<datafield tag="010" ind1=" " ind2 =" ">
+		<subfield code="a">63002407</subfield>
+	</datafield>
+	<datafield tag="020" ind1=" " ind2 =" ">
+		<subfield code="a">0151172056 : HRD</subfield>
+		<subfield code="c">$19.95</subfield>
+	</datafield>
+	<datafield tag="037" ind1=" " ind2 =" ">
+		<subfield code="b">Harcourt, Attn Trade Order Fulfillment 6277 Sea Harbor Dr, Orlando, FL, USA, 32887-4300, (619)6996768</subfield>
+		<subfield code="n">SAN 200-2108</subfield>
+	</datafield>
+	<datafield tag="040" ind1=" " ind2 =" ">
+		<subfield code="a">DLC</subfield>
+		<subfield code="c">CLSU</subfield>
+		<subfield code="d">OCoLC</subfield>
+		<subfield code="d">ODaWU</subfield>
+		<subfield code="d">DLC</subfield>
+	</datafield>
+	<datafield tag="050" ind1="0" ind2 ="0">
+		<subfield code="a">PZ3.C551205</subfield>
+		<subfield code="b">Ch10</subfield>
+	</datafield>
+	<datafield tag="050" ind1="0" ind2 ="0">
+		<subfield code="a">PR6005.L36</subfield>
+	</datafield>
+	<datafield tag="082" ind1=" " ind2 =" ">
+		<subfield code="a">FIC</subfield>
+	</datafield>
+	<datafield tag="092" ind1=" " ind2 =" ">
+		<subfield code="a">FIC</subfield>
+	</datafield>
+	<datafield tag="100" ind1="1" ind2 =" ">
+		<subfield code="a">Clarke, Arthur C.</subfield>
+		<subfield code="q">(Arthur Charles),</subfield>
+		<subfield code="d">1917-2008.</subfield>
+	</datafield>
+	<datafield tag="245" ind1="1" ind2 ="0">
+		<subfield code="a">Childhood's end.</subfield>
+	</datafield>
+	<datafield tag="260" ind1=" " ind2 =" ">
+		<subfield code="a">New York,</subfield>
+		<subfield code="b">Harcourt, Brace &amp; World</subfield>
+		<subfield code="c">[1963, c1953]</subfield>
+	</datafield>
+	<datafield tag="300" ind1=" " ind2 =" ">
+		<subfield code="a">216 p.</subfield>
+		<subfield code="c">21 cm.</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AACC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BBSH</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BBT1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT0K</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT9K</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BTRS</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CARY</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">FC11</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">FCY2</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">GNRF</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">GR23</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">JTMP</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">LLIN</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">MLTN</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">SH13</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XBCC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XBLC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XBLM</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XBYA</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZC96</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZCM8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZCN5</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZLTN</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZSF5</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZTH7</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZUC1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZZSP</subfield>
+	</datafield>
+	<datafield tag="520" ind1=" " ind2 =" ">
+		<subfield code="a">Overlords from outer space dominate the world, eliminating its evils before they destroy it</subfield>
+	</datafield>
+	<datafield tag="914" ind1=" " ind2 =" ">
+		<subfield code="a">PS</subfield>
+		<subfield code="d">HARCO</subfield>
+		<subfield code="e">HARCO</subfield>
+		<subfield code="f">720</subfield>
+		<subfield code="g">BOOK</subfield>
+		<subfield code="h">0.00</subfield>
+		<subfield code="m">M</subfield>
+		<subfield code="w">BOOK</subfield>
+	</datafield>
+	<datafield tag="922" ind1=" " ind2 =" ">
+		<subfield code="a">ocm03931021</subfield>
+	</datafield>
+	<datafield tag="927" ind1=" " ind2 =" ">
+		<subfield code="a">AUb10055611</subfield>
+	</datafield>
+	<datafield tag="930" ind1="1" ind2 ="0">
+		<subfield code="a">Childhood's End</subfield>
+		<subfield code="c">Childhood's End</subfield>
+		<subfield code="d">Childhoods End</subfield>
+		<subfield code="f">0</subfield>
+	</datafield>
+	<datafield tag="940" ind1=" " ind2 =" ">
+		<subfield code="a">Clarke, Arthur C.</subfield>
+		<subfield code="b">Clarke, Arthur C.</subfield>
+	</datafield>
+	<datafield tag="941" ind1=" " ind2 =" ">
+		<subfield code="a">0151172056</subfield>
+	</datafield>
+	<datafield tag="942" ind1=" " ind2 =" ">
+		<subfield code="a">19.95</subfield>
+		<subfield code="d">USD</subfield>
+	</datafield>
+	<datafield tag="943" ind1=" " ind2 =" ">
+		<subfield code="a">HRD</subfield>
+		<subfield code="b">A</subfield>
+		<subfield code="c">FI</subfield>
+		<subfield code="d">GEN</subfield>
+		<subfield code="e">ENG</subfield>
+	</datafield>
+	<datafield tag="947" ind1=" " ind2 =" ">
+		<subfield code="a">BTB</subfield>
+		<subfield code="b">5677</subfield>
+		<subfield code="z">BNT</subfield>
+	</datafield>
+	<datafield tag="948" ind1=" " ind2 =" ">
+		<subfield code="c">1963/06/01</subfield>
+	</datafield>
+	<datafield tag="949" ind1=" " ind2 =" ">
+		<subfield code="a">8.75</subfield>
+		<subfield code="b">5.75</subfield>
+		<subfield code="c">0.75</subfield>
+		<subfield code="d">IN</subfield>
+		<subfield code="e">LB</subfield>
+		<subfield code="f">1.00</subfield>
+		<subfield code="g">1.00</subfield>
+		<subfield code="i">2000/06/17</subfield>
+		<subfield code="j">2008/03/23</subfield>
+	</datafield>
+	<datafield tag="953" ind1=" " ind2 =" ">
+		<subfield code="a">Harcourt</subfield>
+		<subfield code="b">Attn Trade Order Fulfillment</subfield>
+		<subfield code="c">6277 Sea Harbor Dr</subfield>
+		<subfield code="f">Orlando</subfield>
+		<subfield code="g">FL</subfield>
+		<subfield code="h">USA</subfield>
+		<subfield code="i">32887-4300</subfield>
+		<subfield code="l">Harcourt</subfield>
+	</datafield>
+	<datafield tag="955" ind1=" " ind2 =" ">
+		<subfield code="a">Hardcover</subfield>
+		<subfield code="c">Primary</subfield>
+	</datafield>
+</record>
+<record>
+	<leader>03292cam  2201189 a 4500</leader>
+	<controlfield tag="001">BK0000059370</controlfield>
+	<controlfield tag="003">DLC</controlfield>
+	<controlfield tag="005">20060714111734.0</controlfield>
+	<controlfield tag="008">821221r1980    maua          000 0aeng  </controlfield>
+	<datafield tag="010" ind1=" " ind2 =" ">
+		<subfield code="a">80066216</subfield>
+	</datafield>
+	<datafield tag="020" ind1=" " ind2 =" ">
+		<subfield code="a">0879233397 : HRD</subfield>
+		<subfield code="c">$16.95</subfield>
+	</datafield>
+	<datafield tag="037" ind1=" " ind2 =" ">
+		<subfield code="b">David R Godine Pub, Po Box 450, Jaffrey, NH, USA, 03452, (603)5324100</subfield>
+		<subfield code="n">SAN 213-4381</subfield>
+	</datafield>
+	<datafield tag="040" ind1=" " ind2 =" ">
+		<subfield code="a">DLC</subfield>
+		<subfield code="c">DLC</subfield>
+		<subfield code="d">DLC</subfield>
+	</datafield>
+	<datafield tag="050" ind1="0" ind2 ="0">
+		<subfield code="a">PR6039.H52</subfield>
+		<subfield code="b">C48 1980</subfield>
+	</datafield>
+	<datafield tag="082" ind1="0" ind2 ="0">
+		<subfield code="a">821/.912</subfield>
+	</datafield>
+	<datafield tag="082" ind1="0" ind2 ="0">
+		<subfield code="a">B</subfield>
+		<subfield code="2">20</subfield>
+	</datafield>
+	<datafield tag="092" ind1=" " ind2 =" ">
+		<subfield code="a">821.9120</subfield>
+	</datafield>
+	<datafield tag="100" ind1="1" ind2 =" ">
+		<subfield code="a">Thomas, Dylan,</subfield>
+		<subfield code="d">1914-1953.</subfield>
+	</datafield>
+	<datafield tag="245" ind1="1" ind2 ="2">
+		<subfield code="a">A child's Christmas in Wales /</subfield>
+		<subfield code="c">by Dylan Thomas ; illustrated by Edward Ardizzone.</subfield>
+	</datafield>
+	<datafield tag="250" ind1=" " ind2 =" ">
+		<subfield code="a">1st U.S. ed.</subfield>
+	</datafield>
+	<datafield tag="260" ind1=" " ind2 =" ">
+		<subfield code="a">Boston :</subfield>
+		<subfield code="b">D.R. Godine,</subfield>
+		<subfield code="c">1980.</subfield>
+	</datafield>
+	<datafield tag="300" ind1=" " ind2 =" ">
+		<subfield code="a">45 p. :</subfield>
+		<subfield code="b">ill. (some col.) ;</subfield>
+		<subfield code="c">25 cm.</subfield>
+	</datafield>
+	<datafield tag="500" ind1=" " ind2 =" ">
+		<subfield code="a">&quot;Text copyright c1954 by New Directions ... Illustrations copyright c1978&quot;--Colophon.</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AACO</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AAEI</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ACFL</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AYCT</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BBBC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BBFC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BC84</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BRSR</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT0J</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT0K</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT1J</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT7J</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BTH4</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BTJ0</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BTJ8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BTJ9</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CARY</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CC16</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CC17</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CC19</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CHMR</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CLA2</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CMIN</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">IBP3</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">JH6</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">JH7</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">JNKE</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">LVPL</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">NCB7</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">NYTP</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">OFOF</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">PB11</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">PBL0</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">RDA1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">RDC2</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">RDCT</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">SH14</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">SH15</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">SH16</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XBCC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XBJN</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XBLC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XBUC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZBWC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZCA8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZCM8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZCN5</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZHE8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZHO8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZLTN</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZSF5</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZTH7</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZZSP</subfield>
+	</datafield>
+	<datafield tag="520" ind1=" " ind2 =" ">
+		<subfield code="a">A Welsh poet recalls the celebration of Christmas in Wales and the feelings it evoked in him as a child.</subfield>
+	</datafield>
+	<datafield tag="600" ind1="1" ind2 ="0">
+		<subfield code="a">Thomas, Dylan,</subfield>
+		<subfield code="d">1914-1953</subfield>
+		<subfield code="x">Childhood and youth.</subfield>
+	</datafield>
+	<datafield tag="600" ind1="1" ind2 ="0">
+		<subfield code="a">Thomas, Dylan,</subfield>
+		<subfield code="d">1914-1953</subfield>
+		<subfield code="x">Homes and haunts</subfield>
+		<subfield code="z">Wales.</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="0">
+		<subfield code="a">Poets, Welsh</subfield>
+		<subfield code="y">20th century</subfield>
+		<subfield code="x">Biography.</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="0">
+		<subfield code="a">Christmas</subfield>
+		<subfield code="z">Wales.</subfield>
+	</datafield>
+	<datafield tag="600" ind1="1" ind2 ="1">
+		<subfield code="a">Thomas, Dylan,</subfield>
+		<subfield code="d">1914-1953</subfield>
+		<subfield code="x">Childhood and youth.</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="1">
+		<subfield code="a">Poets, Welsh.</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="1">
+		<subfield code="a">Christmas</subfield>
+		<subfield code="z">Wales.</subfield>
+	</datafield>
+	<datafield tag="700" ind1="1" ind2 =" ">
+		<subfield code="a">Ardizzone, Edward,</subfield>
+		<subfield code="d">1900-1979,</subfield>
+		<subfield code="e">ill.</subfield>
+	</datafield>
+	<datafield tag="902" ind1=" " ind2 =" ">
+		<subfield code="a">4-6</subfield>
+	</datafield>
+	<datafield tag="904" ind1=" " ind2 =" ">
+		<subfield code="a">1060</subfield>
+	</datafield>
+	<datafield tag="912" ind1=" " ind2 =" ">
+		<subfield code="i">24</subfield>
+	</datafield>
+	<datafield tag="914" ind1=" " ind2 =" ">
+		<subfield code="a">OS</subfield>
+		<subfield code="d">GODIN</subfield>
+		<subfield code="e">GODIN</subfield>
+		<subfield code="f">212</subfield>
+		<subfield code="g">BOOK</subfield>
+		<subfield code="h">0.00</subfield>
+		<subfield code="l">JUVENILE FICTION / Holidays &amp; Celebrations / Christmas &amp; Advent</subfield>
+		<subfield code="m">M</subfield>
+		<subfield code="o">JUV017010</subfield>
+		<subfield code="w">BOOK</subfield>
+		<subfield code="z">45</subfield>
+	</datafield>
+	<datafield tag="922" ind1=" " ind2 =" ">
+		<subfield code="a">ocm06934505</subfield>
+	</datafield>
+	<datafield tag="927" ind1=" " ind2 =" ">
+		<subfield code="a">AUb10187199</subfield>
+	</datafield>
+	<datafield tag="930" ind1="1" ind2 ="2">
+		<subfield code="a">A Child's Christmas in Wales</subfield>
+		<subfield code="c">A Child's Christmas in Wales</subfield>
+		<subfield code="d">Childs Christmas in Wales</subfield>
+		<subfield code="e">A</subfield>
+		<subfield code="f">2</subfield>
+	</datafield>
+	<datafield tag="940" ind1=" " ind2 =" ">
+		<subfield code="a">Thomas, Dylan/ Ardizzone, Edward (ILT)</subfield>
+		<subfield code="b">Thomas, Dylan</subfield>
+		<subfield code="b">Ardizzone, Edward (ILT)</subfield>
+	</datafield>
+	<datafield tag="941" ind1=" " ind2 =" ">
+		<subfield code="a">0879233397</subfield>
+	</datafield>
+	<datafield tag="942" ind1=" " ind2 =" ">
+		<subfield code="a">16.95</subfield>
+		<subfield code="d">USD</subfield>
+	</datafield>
+	<datafield tag="943" ind1=" " ind2 =" ">
+		<subfield code="a">HRD</subfield>
+		<subfield code="b">A</subfield>
+		<subfield code="c">JN</subfield>
+		<subfield code="d">JUV</subfield>
+		<subfield code="e">ENG</subfield>
+	</datafield>
+	<datafield tag="947" ind1=" " ind2 =" ">
+		<subfield code="a">BTB</subfield>
+		<subfield code="b">13333</subfield>
+		<subfield code="z">BNT</subfield>
+	</datafield>
+	<datafield tag="948" ind1=" " ind2 =" ">
+		<subfield code="c">1980/10/01</subfield>
+	</datafield>
+	<datafield tag="949" ind1=" " ind2 =" ">
+		<subfield code="a">9.50</subfield>
+		<subfield code="b">7.75</subfield>
+		<subfield code="c">0.25</subfield>
+		<subfield code="d">IN</subfield>
+		<subfield code="e">LB</subfield>
+		<subfield code="f">0.80</subfield>
+		<subfield code="g">0.80</subfield>
+		<subfield code="i">1980/06/01</subfield>
+		<subfield code="j">2008/03/25</subfield>
+	</datafield>
+	<datafield tag="953" ind1=" " ind2 =" ">
+		<subfield code="a">David R Godine Pub</subfield>
+		<subfield code="b">Po Box 450</subfield>
+		<subfield code="f">Jaffrey</subfield>
+		<subfield code="g">NH</subfield>
+		<subfield code="h">USA</subfield>
+		<subfield code="i">03452</subfield>
+		<subfield code="l">David R Godine Pub</subfield>
+	</datafield>
+	<datafield tag="954" ind1=" " ind2 =" ">
+		<subfield code="g">3397</subfield>
+	</datafield>
+	<datafield tag="955" ind1=" " ind2 =" ">
+		<subfield code="a">Hardcover</subfield>
+		<subfield code="c">Primary</subfield>
+	</datafield>
+</record>
+<record>
+	<leader>03240cam  2201381   4500</leader>
+	<controlfield tag="001">BK0000064217</controlfield>
+	<controlfield tag="003">DLC</controlfield>
+	<controlfield tag="005">19960607091917.0</controlfield>
+	<controlfield tag="008">720403s1972    nyu      b    00001 eng d</controlfield>
+	<datafield tag="010" ind1=" " ind2 =" ">
+		<subfield code="a">77159759</subfield>
+	</datafield>
+	<datafield tag="020" ind1=" " ind2 =" ">
+		<subfield code="a">0684169401 : PAP</subfield>
+		<subfield code="c">$13.00</subfield>
+	</datafield>
+	<datafield tag="037" ind1=" " ind2 =" ">
+		<subfield code="b">Simon &amp; Schuster, Order Dept 100 Front st, Riverside, NJ, USA, 08075</subfield>
+		<subfield code="n">SAN 200-2442</subfield>
+	</datafield>
+	<datafield tag="040" ind1=" " ind2 =" ">
+		<subfield code="a">DLC</subfield>
+		<subfield code="c">DLC</subfield>
+		<subfield code="d">DLC</subfield>
+	</datafield>
+	<datafield tag="050" ind1="0" ind2 ="0">
+		<subfield code="a">PZ3.H3736</subfield>
+		<subfield code="b">Ni</subfield>
+	</datafield>
+	<datafield tag="051" ind1=" " ind2 =" ">
+		<subfield code="a">PS3515.E37</subfield>
+		<subfield code="b">N5</subfield>
+		<subfield code="c">Copy 2.</subfield>
+	</datafield>
+	<datafield tag="082" ind1="0" ind2 ="0">
+		<subfield code="a">813/.5/2</subfield>
+	</datafield>
+	<datafield tag="092" ind1=" " ind2 =" ">
+		<subfield code="a">813.5200</subfield>
+	</datafield>
+	<datafield tag="100" ind1="1" ind2 ="0">
+		<subfield code="a">Hemingway, Ernest,</subfield>
+		<subfield code="d">1899-1961.</subfield>
+	</datafield>
+	<datafield tag="245" ind1="1" ind2 ="4">
+		<subfield code="a">The Nick Adams stories.</subfield>
+		<subfield code="c">Pref. by Philip Young.</subfield>
+	</datafield>
+	<datafield tag="260" ind1="0" ind2 =" ">
+		<subfield code="a">New York,</subfield>
+		<subfield code="b">Scribner</subfield>
+		<subfield code="c">[1972]</subfield>
+	</datafield>
+	<datafield tag="300" ind1=" " ind2 =" ">
+		<subfield code="a">268 p.</subfield>
+		<subfield code="c">24 cm.</subfield>
+	</datafield>
+	<datafield tag="350" ind1=" " ind2 =" ">
+		<subfield code="a">$7.95</subfield>
+	</datafield>
+	<datafield tag="500" ind1=" " ind2 =" ">
+		<subfield code="a">Eight of these stories never before published.</subfield>
+	</datafield>
+	<datafield tag="504" ind1=" " ind2 =" ">
+		<subfield code="a">Bibliography: p. 7.</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ACFL</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BBSH</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT0K</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT1K</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT2K</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT3K</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT4K</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT5K</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT9K</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BTK0</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BTK1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BTK8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BTK9</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BTR3</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CLSC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CTBG</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CTBH</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">FC11</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">FC12</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">FC13</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">FC14</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">FC15</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">HCF3</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">JC20</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">JC31</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">JCL</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">JCOP</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ML01</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">RDA1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">RDC2</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">RDCT</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">SCS1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">SH13</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">SH14</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">SH15</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">SH16</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">SHPC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">SSF4</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">STP1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VBA4</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VBA5</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VBA6</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VBA7</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VBA8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VBB8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VBC3</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VBC4</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VBC5</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VBC6</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VBC7</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VBC8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VBD6</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VBD8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VBF4</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VCS1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VCW1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VMS0</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VNF0</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VPF1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VPF2</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VPW0</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VPW1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XBLC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XBLM</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XBYA</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XMDF</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XNOS</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XODC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XOER</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XRC4</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZC96</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZCM8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZHE8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZHER</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZREC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZSCS</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZSF5</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZZSP</subfield>
+	</datafield>
+	<datafield tag="520" ind1=" " ind2 =" ">
+		<subfield code="a">Events in the life of Hemingway's memorable character are presented chronologically in this arrangement of the stories</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="0">
+		<subfield code="a">Adams, Nick (Fictitious character)</subfield>
+		<subfield code="x">Fiction.</subfield>
+	</datafield>
+	<datafield tag="914" ind1=" " ind2 =" ">
+		<subfield code="d">SCRIB</subfield>
+		<subfield code="e">SMNPB</subfield>
+		<subfield code="f">500</subfield>
+		<subfield code="g">BOOK</subfield>
+		<subfield code="h">0.00</subfield>
+		<subfield code="m">M</subfield>
+		<subfield code="w">BOOK</subfield>
+	</datafield>
+	<datafield tag="922" ind1=" " ind2 =" ">
+		<subfield code="a">ocm00293139</subfield>
+	</datafield>
+	<datafield tag="930" ind1="1" ind2 ="4">
+		<subfield code="a">The Nick Adams Stories</subfield>
+		<subfield code="c">The Nick Adams Stories</subfield>
+		<subfield code="d">Nick Adams Stories</subfield>
+		<subfield code="e">The</subfield>
+		<subfield code="f">4</subfield>
+	</datafield>
+	<datafield tag="932" ind1=" " ind2 =" ">
+		<subfield code="a">Reissue</subfield>
+	</datafield>
+	<datafield tag="940" ind1=" " ind2 =" ">
+		<subfield code="a">Hemingway, Ernest</subfield>
+		<subfield code="b">Hemingway, Ernest</subfield>
+	</datafield>
+	<datafield tag="941" ind1=" " ind2 =" ">
+		<subfield code="a">0684169401</subfield>
+	</datafield>
+	<datafield tag="942" ind1=" " ind2 =" ">
+		<subfield code="a">13.00</subfield>
+		<subfield code="d">USD</subfield>
+	</datafield>
+	<datafield tag="943" ind1=" " ind2 =" ">
+		<subfield code="a">PAP</subfield>
+		<subfield code="b">A</subfield>
+		<subfield code="c">FI</subfield>
+		<subfield code="d">GEN</subfield>
+		<subfield code="e">ENG</subfield>
+	</datafield>
+	<datafield tag="947" ind1=" " ind2 =" ">
+		<subfield code="a">BTB</subfield>
+		<subfield code="b">14444</subfield>
+		<subfield code="z">BNT</subfield>
+	</datafield>
+	<datafield tag="948" ind1=" " ind2 =" ">
+		<subfield code="c">1981/02/01</subfield>
+	</datafield>
+	<datafield tag="949" ind1=" " ind2 =" ">
+		<subfield code="a">8.00</subfield>
+		<subfield code="b">5.50</subfield>
+		<subfield code="c">0.75</subfield>
+		<subfield code="d">IN</subfield>
+		<subfield code="e">LB</subfield>
+		<subfield code="f">0.70</subfield>
+		<subfield code="g">0.70</subfield>
+		<subfield code="i">1981/01/01</subfield>
+		<subfield code="j">2008/03/25</subfield>
+	</datafield>
+	<datafield tag="953" ind1=" " ind2 =" ">
+		<subfield code="a">Simon &amp; Schuster</subfield>
+		<subfield code="b">Order Dept</subfield>
+		<subfield code="c">100 Front st</subfield>
+		<subfield code="f">Riverside</subfield>
+		<subfield code="g">NJ</subfield>
+		<subfield code="h">USA</subfield>
+		<subfield code="i">08075</subfield>
+		<subfield code="l">Scribner</subfield>
+	</datafield>
+	<datafield tag="954" ind1=" " ind2 =" ">
+		<subfield code="e">0</subfield>
+	</datafield>
+	<datafield tag="955" ind1=" " ind2 =" ">
+		<subfield code="a">Paperback</subfield>
+		<subfield code="c">Primary</subfield>
+		<subfield code="d">Reissue</subfield>
+	</datafield>
+</record>
+<record>
+	<leader>01604cam  2200469   4500</leader>
+	<controlfield tag="001">BK0000090557</controlfield>
+	<controlfield tag="003">AU</controlfield>
+	<controlfield tag="005">20020419132325.0</controlfield>
+	<controlfield tag="008">700216t19701954nyu           000 1 eng  </controlfield>
+	<datafield tag="010" ind1=" " ind2 =" ">
+		<subfield code="a">74100500</subfield>
+	</datafield>
+	<datafield tag="020" ind1=" " ind2 =" ">
+		<subfield code="a">0151730822 : HRD</subfield>
+		<subfield code="c">$5.75</subfield>
+	</datafield>
+	<datafield tag="037" ind1=" " ind2 =" ">
+		<subfield code="b">Harcourt, Attn Trade Order Fulfillment 6277 Sea Harbor Dr, Orlando, FL, USA, 32887-4300, (619)6996768</subfield>
+		<subfield code="n">SAN 200-2108</subfield>
+	</datafield>
+	<datafield tag="040" ind1=" " ind2 =" ">
+		<subfield code="a">DLC</subfield>
+		<subfield code="c">DLC</subfield>
+		<subfield code="d">DLC</subfield>
+	</datafield>
+	<datafield tag="050" ind1="0" ind2 ="0">
+		<subfield code="a">PZ3.C551205</subfield>
+		<subfield code="b">Pr6</subfield>
+	</datafield>
+	<datafield tag="050" ind1="0" ind2 ="0">
+		<subfield code="a">PR6005.L36</subfield>
+	</datafield>
+	<datafield tag="082" ind1="0" ind2 ="0">
+		<subfield code="a">823/.9/14</subfield>
+	</datafield>
+	<datafield tag="092" ind1=" " ind2 =" ">
+		<subfield code="a">823.9140</subfield>
+	</datafield>
+	<datafield tag="100" ind1="1" ind2 =" ">
+		<subfield code="a">Clarke, Arthur C.</subfield>
+		<subfield code="q">(Arthur Charles),</subfield>
+		<subfield code="d">1917-2008.</subfield>
+	</datafield>
+	<datafield tag="245" ind1="1" ind2 ="0">
+		<subfield code="a">Prelude to space</subfield>
+		<subfield code="c">[by] Arthur C. Clarke.</subfield>
+	</datafield>
+	<datafield tag="260" ind1=" " ind2 =" ">
+		<subfield code="a">New York,</subfield>
+		<subfield code="b">Harcourt, Brace &amp; World</subfield>
+		<subfield code="c">[1970, c1954]</subfield>
+	</datafield>
+	<datafield tag="300" ind1=" " ind2 =" ">
+		<subfield code="a">xii, 209 p.</subfield>
+		<subfield code="c">21 cm.</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">FC11</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">GNRF</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">JCL</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">JCOP</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZSF5</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZTH7</subfield>
+	</datafield>
+	<datafield tag="520" ind1=" " ind2 =" ">
+		<subfield code="a">Written more than twenty years before the first man landed on the moon, this novel fantasies events which lead to this momentous event</subfield>
+	</datafield>
+	<datafield tag="655" ind1=" " ind2 ="7">
+		<subfield code="a">Science fiction.</subfield>
+		<subfield code="2">gsafd</subfield>
+	</datafield>
+	<datafield tag="914" ind1=" " ind2 =" ">
+		<subfield code="a">OP</subfield>
+		<subfield code="d">HARCO</subfield>
+		<subfield code="e">HARCO</subfield>
+		<subfield code="f">720</subfield>
+		<subfield code="g">BOOK</subfield>
+		<subfield code="h">0.00</subfield>
+		<subfield code="m">M</subfield>
+		<subfield code="w">BOOK</subfield>
+	</datafield>
+	<datafield tag="922" ind1=" " ind2 =" ">
+		<subfield code="a">ocm00055577</subfield>
+	</datafield>
+	<datafield tag="927" ind1=" " ind2 =" ">
+		<subfield code="a">AUb10304638</subfield>
+	</datafield>
+	<datafield tag="930" ind1="1" ind2 ="0">
+		<subfield code="a">Prelude to Space</subfield>
+		<subfield code="c">Prelude to Space</subfield>
+		<subfield code="d">Prelude to Space</subfield>
+		<subfield code="f">0</subfield>
+	</datafield>
+	<datafield tag="940" ind1=" " ind2 =" ">
+		<subfield code="a">Clarke, Arthur C.</subfield>
+		<subfield code="b">Clarke, Arthur C.</subfield>
+	</datafield>
+	<datafield tag="941" ind1=" " ind2 =" ">
+		<subfield code="a">0151730822</subfield>
+	</datafield>
+	<datafield tag="942" ind1=" " ind2 =" ">
+		<subfield code="a">5.75</subfield>
+		<subfield code="d">USD</subfield>
+	</datafield>
+	<datafield tag="943" ind1=" " ind2 =" ">
+		<subfield code="a">HRD</subfield>
+		<subfield code="b">A</subfield>
+		<subfield code="c">FI</subfield>
+		<subfield code="d">GEN</subfield>
+		<subfield code="e">ENG</subfield>
+	</datafield>
+	<datafield tag="947" ind1=" " ind2 =" ">
+		<subfield code="a">BTB</subfield>
+		<subfield code="b">20363</subfield>
+		<subfield code="z">BNT</subfield>
+	</datafield>
+	<datafield tag="948" ind1=" " ind2 =" ">
+		<subfield code="c">1970/06/01</subfield>
+	</datafield>
+	<datafield tag="949" ind1=" " ind2 =" ">
+		<subfield code="i">1972/06/01</subfield>
+		<subfield code="j">2008/03/23</subfield>
+	</datafield>
+	<datafield tag="953" ind1=" " ind2 =" ">
+		<subfield code="a">Harcourt</subfield>
+		<subfield code="b">Attn Trade Order Fulfillment</subfield>
+		<subfield code="c">6277 Sea Harbor Dr</subfield>
+		<subfield code="f">Orlando</subfield>
+		<subfield code="g">FL</subfield>
+		<subfield code="h">USA</subfield>
+		<subfield code="i">32887-4300</subfield>
+		<subfield code="l">Harcourt</subfield>
+	</datafield>
+	<datafield tag="955" ind1=" " ind2 =" ">
+		<subfield code="a">Hardcover</subfield>
+		<subfield code="c">Primary</subfield>
+	</datafield>
+</record>
+<record>
+	<leader>01686cam  22005171i 4500</leader>
+	<controlfield tag="001">BK0000113211</controlfield>
+	<controlfield tag="005">20041112115512.0</controlfield>
+	<controlfield tag="008">771129s1965    nyu    j      000 1 eng  </controlfield>
+	<datafield tag="010" ind1=" " ind2 =" ">
+		<subfield code="a">65017195</subfield>
+	</datafield>
+	<datafield tag="020" ind1=" " ind2 =" ">
+		<subfield code="a">0448054779 : HRD</subfield>
+		<subfield code="c">$2.95</subfield>
+	</datafield>
+	<datafield tag="037" ind1=" " ind2 =" ">
+		<subfield code="b">Penguin Group USA, Order Processing Dept 120 Woodbine st, Bergenfield, NJ, USA, 07621</subfield>
+		<subfield code="n">SAN 282-5074</subfield>
+	</datafield>
+	<datafield tag="040" ind1=" " ind2 =" ">
+		<subfield code="a">DLC</subfield>
+		<subfield code="c">MoS</subfield>
+		<subfield code="d">OCoLC</subfield>
+		<subfield code="d">ICFC</subfield>
+		<subfield code="d">DLC</subfield>
+		<subfield code="d">NjBwBT</subfield>
+	</datafield>
+	<datafield tag="050" ind1="0" ind2 ="0">
+		<subfield code="a">PZ3.C59</subfield>
+		<subfield code="b">Pr49</subfield>
+	</datafield>
+	<datafield tag="050" ind1="0" ind2 ="0">
+		<subfield code="a">PS1316</subfield>
+	</datafield>
+	<datafield tag="082" ind1=" " ind2 =" ">
+		<subfield code="a">FIC</subfield>
+	</datafield>
+	<datafield tag="092" ind1=" " ind2 =" ">
+		<subfield code="a">FIC</subfield>
+	</datafield>
+	<datafield tag="100" ind1="1" ind2 =" ">
+		<subfield code="a">Twain, Mark,</subfield>
+		<subfield code="d">1835-1910.</subfield>
+	</datafield>
+	<datafield tag="245" ind1="1" ind2 ="4">
+		<subfield code="a">The prince and the pauper /</subfield>
+		<subfield code="c">Samuel Clemens.</subfield>
+	</datafield>
+	<datafield tag="260" ind1=" " ind2 =" ">
+		<subfield code="a">New York :</subfield>
+		<subfield code="b">Grosset &amp; Dunlap,</subfield>
+		<subfield code="c">1965.</subfield>
+	</datafield>
+	<datafield tag="300" ind1=" " ind2 =" ">
+		<subfield code="a">x, 256 p. :</subfield>
+		<subfield code="b">ill. ;</subfield>
+		<subfield code="c">20 cm.</subfield>
+	</datafield>
+	<datafield tag="490" ind1="0" ind2 =" ">
+		<subfield code="a">Companion library.</subfield>
+	</datafield>
+	<datafield tag="500" ind1=" " ind2 =" ">
+		<subfield code="a">On cover: Illustrated by Frank Vaughn.</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BREN</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">JH5</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XBLM</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZBWC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZCM8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZCN5</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZLTN</subfield>
+	</datafield>
+	<datafield tag="520" ind1=" " ind2 =" ">
+		<subfield code="a">The American humorist's classic tale of Tudor England in which a poor boy and a prince exchange places</subfield>
+	</datafield>
+	<datafield tag="700" ind1="1" ind2 =" ">
+		<subfield code="a">James, Frank,</subfield>
+		<subfield code="d">1844-1915,</subfield>
+		<subfield code="e">ill.</subfield>
+	</datafield>
+	<datafield tag="902" ind1=" " ind2 =" ">
+		<subfield code="a">4-6</subfield>
+	</datafield>
+	<datafield tag="912" ind1=" " ind2 =" ">
+		<subfield code="i">24</subfield>
+	</datafield>
+	<datafield tag="914" ind1=" " ind2 =" ">
+		<subfield code="a">OP</subfield>
+		<subfield code="d">GROSS</subfield>
+		<subfield code="e">PENGJ</subfield>
+		<subfield code="f">500</subfield>
+		<subfield code="g">BOOK</subfield>
+		<subfield code="h">0.00</subfield>
+		<subfield code="m">M</subfield>
+		<subfield code="w">BOOK</subfield>
+	</datafield>
+	<datafield tag="922" ind1=" " ind2 =" ">
+		<subfield code="a">ocm03450589</subfield>
+	</datafield>
+	<datafield tag="927" ind1=" " ind2 =" ">
+		<subfield code="a">AUb10273506</subfield>
+	</datafield>
+	<datafield tag="930" ind1="1" ind2 ="0">
+		<subfield code="a">Prince and the Pauper</subfield>
+		<subfield code="c">Prince and the Pauper</subfield>
+		<subfield code="d">Prince and the Pauper</subfield>
+		<subfield code="f">0</subfield>
+	</datafield>
+	<datafield tag="940" ind1=" " ind2 =" ">
+		<subfield code="a">Twain, Mark</subfield>
+		<subfield code="b">Twain, Mark</subfield>
+	</datafield>
+	<datafield tag="941" ind1=" " ind2 =" ">
+		<subfield code="a">0448054779</subfield>
+	</datafield>
+	<datafield tag="942" ind1=" " ind2 =" ">
+		<subfield code="a">2.95</subfield>
+		<subfield code="d">USD</subfield>
+	</datafield>
+	<datafield tag="943" ind1=" " ind2 =" ">
+		<subfield code="a">HRD</subfield>
+		<subfield code="b">A</subfield>
+		<subfield code="c">JF</subfield>
+		<subfield code="d">JUV</subfield>
+		<subfield code="e">ENG</subfield>
+	</datafield>
+	<datafield tag="947" ind1=" " ind2 =" ">
+		<subfield code="a">BTB</subfield>
+		<subfield code="b">25313</subfield>
+		<subfield code="z">BNT</subfield>
+	</datafield>
+	<datafield tag="948" ind1=" " ind2 =" ">
+		<subfield code="c">1974/03/01</subfield>
+	</datafield>
+	<datafield tag="949" ind1=" " ind2 =" ">
+		<subfield code="i">1972/06/01</subfield>
+		<subfield code="j">2008/03/23</subfield>
+	</datafield>
+	<datafield tag="953" ind1=" " ind2 =" ">
+		<subfield code="a">Penguin Group USA</subfield>
+		<subfield code="b">Order Processing Dept</subfield>
+		<subfield code="c">120 Woodbine st</subfield>
+		<subfield code="f">Bergenfield</subfield>
+		<subfield code="g">NJ</subfield>
+		<subfield code="h">USA</subfield>
+		<subfield code="i">07621</subfield>
+		<subfield code="l">Grosset &amp; Dunlap</subfield>
+	</datafield>
+	<datafield tag="955" ind1=" " ind2 =" ">
+		<subfield code="a">Hardcover</subfield>
+		<subfield code="c">Primary</subfield>
+	</datafield>
+</record>
+<record>
+	<leader>03193cam  2201069   4500</leader>
+	<controlfield tag="001">BK0000179430</controlfield>
+	<controlfield tag="005">20041115173231.0</controlfield>
+	<controlfield tag="008">731003s1967    nyua     b    000 1 eng  </controlfield>
+	<datafield tag="010" ind1=" " ind2 =" ">
+		<subfield code="a">66011309</subfield>
+	</datafield>
+	<datafield tag="020" ind1=" " ind2 =" ">
+		<subfield code="a">039309670X : PAP</subfield>
+		<subfield code="c">$16.35</subfield>
+	</datafield>
+	<datafield tag="037" ind1=" " ind2 =" ">
+		<subfield code="b">W W Norton &amp; Co Inc, 800 Keystone Industrial Park, Scranton, PA, USA, 18512</subfield>
+		<subfield code="n">SAN 202-5795</subfield>
+	</datafield>
+	<datafield tag="040" ind1=" " ind2 =" ">
+		<subfield code="a">DLC</subfield>
+		<subfield code="c">DLC</subfield>
+		<subfield code="d">DLC</subfield>
+		<subfield code="d">OCoLC</subfield>
+		<subfield code="d">NjBwBT</subfield>
+	</datafield>
+	<datafield tag="050" ind1="0" ind2 ="0">
+		<subfield code="a">PZ3.M498</subfield>
+		<subfield code="b">Mo76</subfield>
+	</datafield>
+	<datafield tag="050" ind1="0" ind2 ="0">
+		<subfield code="a">PS2384.M6</subfield>
+	</datafield>
+	<datafield tag="082" ind1=" " ind2 =" ">
+		<subfield code="a">FIC</subfield>
+	</datafield>
+	<datafield tag="092" ind1=" " ind2 =" ">
+		<subfield code="a">FIC</subfield>
+	</datafield>
+	<datafield tag="100" ind1="1" ind2 =" ">
+		<subfield code="a">Melville, Herman,</subfield>
+		<subfield code="d">1819-1891.</subfield>
+	</datafield>
+	<datafield tag="245" ind1="1" ind2 ="0">
+		<subfield code="a">Moby-Dick:</subfield>
+		<subfield code="b">An authoritative text;</subfield>
+		<subfield code="c">Reviews and letters by Melville; Analogues and sources; Criticism. Edited by Harrison Hayford [and] Hershel Parker. Pictorial materials prepared by John B. Putnam.</subfield>
+	</datafield>
+	<datafield tag="250" ind1=" " ind2 =" ">
+		<subfield code="a">[1st ed.]</subfield>
+	</datafield>
+	<datafield tag="260" ind1=" " ind2 =" ">
+		<subfield code="a">New York,</subfield>
+		<subfield code="b">W. W. Norton</subfield>
+		<subfield code="c">[1967]</subfield>
+	</datafield>
+	<datafield tag="300" ind1=" " ind2 =" ">
+		<subfield code="a">xviii, 728 p.</subfield>
+		<subfield code="b">illus.</subfield>
+		<subfield code="c">20 cm.</subfield>
+	</datafield>
+	<datafield tag="490" ind1="0" ind2 =" ">
+		<subfield code="a">A Norton critical edition.</subfield>
+	</datafield>
+	<datafield tag="504" ind1=" " ind2 =" ">
+		<subfield code="a">Includes bibliographical references.</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AAAF</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AAAW</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AACC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AACL</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT0K</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT1K</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT2K</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT3K</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT9K</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BTBC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BTRS</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CLSC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CTBC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CTBD</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CTBE</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CTBG</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CTBH</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">FC13</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">JTMP</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">OBC6</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">SH13</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">SH15</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">STP1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VCS1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VCW0</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VCW1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VMS0</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VNF0</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VNS0</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VNW0</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VPF0</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VPF1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VPF2</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VPS1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XODC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XOER</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZHC7</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZHO8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZMWD</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZUC1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZZWK</subfield>
+	</datafield>
+	<datafield tag="520" ind1=" " ind2 =" ">
+		<subfield code="a">The story of the fated voyage of the whaler Pequod plus critical essays, excerpts from Melville's letters, and information on whaling</subfield>
+	</datafield>
+	<datafield tag="600" ind1="1" ind2 ="0">
+		<subfield code="a">Melville, Herman,</subfield>
+		<subfield code="d">1819-1891.</subfield>
+		<subfield code="t">Moby Dick.</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="0">
+		<subfield code="a">Ahab, Captain (Fictitious character)</subfield>
+		<subfield code="v">Fiction.</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="0">
+		<subfield code="a">Whaling ships</subfield>
+		<subfield code="v">Fiction.</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="0">
+		<subfield code="a">Ship captains</subfield>
+		<subfield code="v">Fiction.</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="0">
+		<subfield code="a">Mentally ill</subfield>
+		<subfield code="v">Fiction.</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="0">
+		<subfield code="a">Whaling</subfield>
+		<subfield code="v">Fiction.</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="0">
+		<subfield code="a">Whales</subfield>
+		<subfield code="v">Fiction.</subfield>
+	</datafield>
+	<datafield tag="655" ind1=" " ind2 ="7">
+		<subfield code="a">Psychological fiction.</subfield>
+		<subfield code="2">lcsh</subfield>
+	</datafield>
+	<datafield tag="655" ind1=" " ind2 ="7">
+		<subfield code="a">Adventure stories.</subfield>
+		<subfield code="2">gsafd</subfield>
+	</datafield>
+	<datafield tag="655" ind1=" " ind2 ="7">
+		<subfield code="a">Sea stories.</subfield>
+		<subfield code="2">lcsh</subfield>
+	</datafield>
+	<datafield tag="700" ind1="1" ind2 =" ">
+		<subfield code="a">Hayford, Harrison,</subfield>
+		<subfield code="e">ed.</subfield>
+	</datafield>
+	<datafield tag="700" ind1="1" ind2 =" ">
+		<subfield code="a">Parker, Hershel,</subfield>
+		<subfield code="e">ed.</subfield>
+	</datafield>
+	<datafield tag="904" ind1=" " ind2 =" ">
+		<subfield code="a">1140</subfield>
+	</datafield>
+	<datafield tag="914" ind1=" " ind2 =" ">
+		<subfield code="a">OP</subfield>
+		<subfield code="d">NRTNC</subfield>
+		<subfield code="e">NRTWW</subfield>
+		<subfield code="f">500</subfield>
+		<subfield code="g">BOOK</subfield>
+		<subfield code="h">0.00</subfield>
+		<subfield code="l">FICTION / Classics</subfield>
+		<subfield code="m">M</subfield>
+		<subfield code="o">FIC004000</subfield>
+		<subfield code="w">BOOK</subfield>
+	</datafield>
+	<datafield tag="922" ind1=" " ind2 =" ">
+		<subfield code="a">ocm00953128</subfield>
+	</datafield>
+	<datafield tag="927" ind1=" " ind2 =" ">
+		<subfield code="a">AUb10143147</subfield>
+	</datafield>
+	<datafield tag="930" ind1="1" ind2 ="0">
+		<subfield code="a">Moby-Dick</subfield>
+		<subfield code="b">An Authoritative Text</subfield>
+		<subfield code="c">Moby-Dick : An Authoritative Text</subfield>
+		<subfield code="d">Moby Dick an Authoritative Text</subfield>
+		<subfield code="f">0</subfield>
+	</datafield>
+	<datafield tag="940" ind1=" " ind2 =" ">
+		<subfield code="a">Melville, Herman</subfield>
+		<subfield code="b">Melville, Herman</subfield>
+	</datafield>
+	<datafield tag="941" ind1=" " ind2 =" ">
+		<subfield code="a">039309670X</subfield>
+	</datafield>
+	<datafield tag="942" ind1=" " ind2 =" ">
+		<subfield code="a">16.35</subfield>
+		<subfield code="d">USD</subfield>
+	</datafield>
+	<datafield tag="943" ind1=" " ind2 =" ">
+		<subfield code="a">PAP</subfield>
+		<subfield code="b">D</subfield>
+		<subfield code="c">FI</subfield>
+		<subfield code="d">TXT</subfield>
+		<subfield code="e">ENG</subfield>
+	</datafield>
+	<datafield tag="947" ind1=" " ind2 =" ">
+		<subfield code="a">BTB</subfield>
+		<subfield code="b">40081</subfield>
+		<subfield code="z">BNT</subfield>
+	</datafield>
+	<datafield tag="948" ind1=" " ind2 =" ">
+		<subfield code="c">1967/08/01</subfield>
+	</datafield>
+	<datafield tag="949" ind1=" " ind2 =" ">
+		<subfield code="a">8.50</subfield>
+		<subfield code="b">5.25</subfield>
+		<subfield code="c">1.00</subfield>
+		<subfield code="d">IN</subfield>
+		<subfield code="e">LB</subfield>
+		<subfield code="f">1.10</subfield>
+		<subfield code="g">1.10</subfield>
+		<subfield code="i">1972/06/01</subfield>
+		<subfield code="j">2008/03/23</subfield>
+	</datafield>
+	<datafield tag="953" ind1=" " ind2 =" ">
+		<subfield code="a">W W Norton &amp; Co Inc</subfield>
+		<subfield code="b">800 Keystone Industrial Park</subfield>
+		<subfield code="f">Scranton</subfield>
+		<subfield code="g">PA</subfield>
+		<subfield code="h">USA</subfield>
+		<subfield code="i">18512</subfield>
+		<subfield code="l">W W Norton &amp; Co Inc</subfield>
+	</datafield>
+	<datafield tag="954" ind1=" " ind2 =" ">
+		<subfield code="c">2002.06.15</subfield>
+		<subfield code="d">OBSOLETE</subfield>
+	</datafield>
+	<datafield tag="955" ind1=" " ind2 =" ">
+		<subfield code="a">Paperback</subfield>
+		<subfield code="c">Primary</subfield>
+	</datafield>
+</record>
+<record>
+	<leader>01883cam  2200577 a 4500</leader>
+	<controlfield tag="001">BK0000188353</controlfield>
+	<controlfield tag="003">AU</controlfield>
+	<controlfield tag="005">19990716000000.0</controlfield>
+	<controlfield tag="008">830616s1984    ilu      b    000 0 eng  </controlfield>
+	<datafield tag="010" ind1=" " ind2 =" ">
+		<subfield code="a">83009126</subfield>
+	</datafield>
+	<datafield tag="020" ind1=" " ind2 =" ">
+		<subfield code="a">0198114869 : PAP</subfield>
+		<subfield code="c">$35.00</subfield>
+	</datafield>
+	<datafield tag="037" ind1=" " ind2 =" ">
+		<subfield code="b">Oxford Univ Pr, 2001 Evans rd, Cary, NC, USA, 27513</subfield>
+		<subfield code="n">SAN 202-5892</subfield>
+	</datafield>
+	<datafield tag="040" ind1=" " ind2 =" ">
+		<subfield code="a">DLC</subfield>
+		<subfield code="c">DLC</subfield>
+		<subfield code="d">DLC</subfield>
+	</datafield>
+	<datafield tag="050" ind1="0" ind2 ="0">
+		<subfield code="a">PR2065</subfield>
+		<subfield code="b">.G3 1984</subfield>
+	</datafield>
+	<datafield tag="082" ind1="0" ind2 ="0">
+		<subfield code="a">821/.1</subfield>
+		<subfield code="2">19</subfield>
+	</datafield>
+	<datafield tag="092" ind1=" " ind2 =" ">
+		<subfield code="a">821.1000</subfield>
+	</datafield>
+	<datafield tag="100" ind1=" " ind2 =" ">
+		<subfield code="a">Tolkien, J. R. R.</subfield>
+	</datafield>
+	<datafield tag="130" ind1=" " ind2 =" ">
+		<subfield code="a">Gawain and the Grene Knight.</subfield>
+	</datafield>
+	<datafield tag="245" ind1="1" ind2 ="0">
+		<subfield code="a">Sir Gawain &amp; the Green Knight :</subfield>
+		<subfield code="b">a new critical edition /</subfield>
+		<subfield code="c">[edited by] Theodore Silverstein.</subfield>
+	</datafield>
+	<datafield tag="260" ind1=" " ind2 =" ">
+		<subfield code="a">Chicago :</subfield>
+		<subfield code="b">University of Chicago Press,</subfield>
+		<subfield code="c">1984.</subfield>
+	</datafield>
+	<datafield tag="300" ind1=" " ind2 =" ">
+		<subfield code="a">x, 268 p. ;</subfield>
+		<subfield code="c">24 cm.</subfield>
+	</datafield>
+	<datafield tag="504" ind1=" " ind2 =" ">
+		<subfield code="a">Bibliography: p. [169]-181.</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT0K</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT1K</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CLSC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">RDA1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">SH13</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">SHPC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZC96</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZCM8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZCN5</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZLTN</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="0">
+		<subfield code="a">Gawain (Legendary character)</subfield>
+		<subfield code="x">Romances.</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="0">
+		<subfield code="a">Knights and knighthood</subfield>
+		<subfield code="x">Poetry.</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="0">
+		<subfield code="a">Arthurian romances.</subfield>
+	</datafield>
+	<datafield tag="700" ind1="1" ind2 =" ">
+		<subfield code="a">Silverstein, Theodore.</subfield>
+	</datafield>
+	<datafield tag="740" ind1="0" ind2 =" ">
+		<subfield code="a">Sir Gawain and the Green Knight.</subfield>
+	</datafield>
+	<datafield tag="914" ind1=" " ind2 =" ">
+		<subfield code="d">UOXFD</subfield>
+		<subfield code="e">UOXFD</subfield>
+		<subfield code="f">710</subfield>
+		<subfield code="g">BOOK</subfield>
+		<subfield code="h">0.00</subfield>
+		<subfield code="l">SCIENCE / Life Sciences / Zoology / General</subfield>
+		<subfield code="m">M</subfield>
+		<subfield code="o">SCI070000</subfield>
+		<subfield code="w">BOOK</subfield>
+	</datafield>
+	<datafield tag="922" ind1=" " ind2 =" ">
+		<subfield code="a">ocm09686994</subfield>
+	</datafield>
+	<datafield tag="927" ind1=" " ind2 =" ">
+		<subfield code="a">AUb11921755</subfield>
+	</datafield>
+	<datafield tag="930" ind1="1" ind2 ="0">
+		<subfield code="a">Sir Gawain and the Green Knight</subfield>
+		<subfield code="c">Sir Gawain and the Green Knight</subfield>
+		<subfield code="d">Sir Gawain and the Green Knight</subfield>
+		<subfield code="f">0</subfield>
+	</datafield>
+	<datafield tag="932" ind1=" " ind2 =" ">
+		<subfield code="a">2</subfield>
+	</datafield>
+	<datafield tag="940" ind1=" " ind2 =" ">
+		<subfield code="a">Tolkien, J. R. R.</subfield>
+		<subfield code="b">Tolkien, J. R. R.</subfield>
+	</datafield>
+	<datafield tag="941" ind1=" " ind2 =" ">
+		<subfield code="a">0198114869</subfield>
+	</datafield>
+	<datafield tag="942" ind1=" " ind2 =" ">
+		<subfield code="a">35.00</subfield>
+		<subfield code="d">USD</subfield>
+	</datafield>
+	<datafield tag="943" ind1=" " ind2 =" ">
+		<subfield code="a">PAP</subfield>
+		<subfield code="b">A</subfield>
+		<subfield code="c">NF</subfield>
+		<subfield code="d">UP</subfield>
+		<subfield code="e">ENG</subfield>
+	</datafield>
+	<datafield tag="947" ind1=" " ind2 =" ">
+		<subfield code="a">BTB</subfield>
+		<subfield code="b">42022</subfield>
+		<subfield code="z">BNT</subfield>
+	</datafield>
+	<datafield tag="948" ind1=" " ind2 =" ">
+		<subfield code="c">1968/12/31</subfield>
+	</datafield>
+	<datafield tag="949" ind1=" " ind2 =" ">
+		<subfield code="a">8.50</subfield>
+		<subfield code="b">5.50</subfield>
+		<subfield code="c">0.75</subfield>
+		<subfield code="d">IN</subfield>
+		<subfield code="e">LB</subfield>
+		<subfield code="f">0.75</subfield>
+		<subfield code="g">0.75</subfield>
+		<subfield code="i">1972/09/01</subfield>
+		<subfield code="j">2008/03/25</subfield>
+	</datafield>
+	<datafield tag="953" ind1=" " ind2 =" ">
+		<subfield code="a">Oxford Univ Pr</subfield>
+		<subfield code="b">2001 Evans rd</subfield>
+		<subfield code="f">Cary</subfield>
+		<subfield code="g">NC</subfield>
+		<subfield code="h">USA</subfield>
+		<subfield code="i">27513</subfield>
+		<subfield code="l">Oxford Univ Pr</subfield>
+	</datafield>
+	<datafield tag="955" ind1=" " ind2 =" ">
+		<subfield code="a">Paperback</subfield>
+		<subfield code="c">Primary</subfield>
+		<subfield code="e">2</subfield>
+	</datafield>
+</record>
+<record>
+	<leader>03130cam  2201213   4500</leader>
+	<controlfield tag="001">BK0000228252</controlfield>
+	<controlfield tag="003">DLC</controlfield>
+	<controlfield tag="005">20070727212920.0</controlfield>
+	<controlfield tag="008">740110t19731952maua   j      000 1 eng  </controlfield>
+	<datafield tag="010" ind1=" " ind2 =" ">
+		<subfield code="a">73180856</subfield>
+	</datafield>
+	<datafield tag="020" ind1=" " ind2 =" ">
+		<subfield code="a">039516964X : SAL</subfield>
+		<subfield code="c">$16.00</subfield>
+	</datafield>
+	<datafield tag="037" ind1=" " ind2 =" ">
+		<subfield code="b">Houghton Mifflin, Attn: Trade Order Processing 181 Ballardvale st, Wilmington, MA, USA, 01887</subfield>
+		<subfield code="n">SAN 215-3793</subfield>
+	</datafield>
+	<datafield tag="040" ind1=" " ind2 =" ">
+		<subfield code="a">DLC</subfield>
+		<subfield code="c">DLC</subfield>
+		<subfield code="d">DLC</subfield>
+	</datafield>
+	<datafield tag="050" ind1="0" ind2 ="0">
+		<subfield code="a">PZ7.R33</subfield>
+		<subfield code="b">Cu11</subfield>
+	</datafield>
+	<datafield tag="082" ind1="0" ind2 ="0">
+		<subfield code="a">[E]</subfield>
+	</datafield>
+	<datafield tag="092" ind1=" " ind2 =" ">
+		<subfield code="a">E</subfield>
+	</datafield>
+	<datafield tag="100" ind1="1" ind2 =" ">
+		<subfield code="a">Rey, H. A.</subfield>
+		<subfield code="q">(Hans Augusto),</subfield>
+		<subfield code="d">1898-1977.</subfield>
+	</datafield>
+	<datafield tag="245" ind1="1" ind2 ="0">
+		<subfield code="a">Curious George rides a bike</subfield>
+		<subfield code="c">[by] H. A. Rey.</subfield>
+	</datafield>
+	<datafield tag="260" ind1=" " ind2 =" ">
+		<subfield code="a">Boston,</subfield>
+		<subfield code="b">Houghton Mifflin,</subfield>
+		<subfield code="c">[1973, c1952]</subfield>
+	</datafield>
+	<datafield tag="300" ind1=" " ind2 =" ">
+		<subfield code="a">45 p.</subfield>
+		<subfield code="b">illus.</subfield>
+		<subfield code="c">23 cm.</subfield>
+	</datafield>
+	<datafield tag="350" ind1=" " ind2 =" ">
+		<subfield code="a">$0.95</subfield>
+	</datafield>
+	<datafield tag="490" ind1="0" ind2 =" ">
+		<subfield code="a">Sandpiper books.</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AAAP</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AAEI</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AAWC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ACFL</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AJEF</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AOAK</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AZ3</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AZ4</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AZ5</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AZ6</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BBBC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BBFC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BS01</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT0J</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT1J</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT4J</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT5J</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT7J</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT9J</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BTJ0</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BTJ8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BTJ9</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BTP4</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BTPB</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CCS7</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CMIN</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">COE1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">DCSE</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ECE3</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ES81</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ES91</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ESC1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">EZFC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">IMSL</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">LLIN</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">LMA1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">LVPL</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ML01</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">MLTN</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">OBBJ</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">SCE1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">SEE4</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">TRJV</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">TTPB</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XBLC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XBPB</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XBUC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XBYA</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XKES</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XNOS</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XODC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XOER</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XTST</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZBA8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZHO8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZL69</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZLTN</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZMWD</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZSCP</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZSE8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZTH7</subfield>
+	</datafield>
+	<datafield tag="520" ind1=" " ind2 =" ">
+		<subfield code="a">George the monkey goes riding on his new bicyle and runs into unexpected adventure.</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="1">
+		<subfield code="a">Monkeys</subfield>
+		<subfield code="x">Fiction.</subfield>
+	</datafield>
+	<datafield tag="856" ind1="4" ind2 ="2">
+		<subfield code="3">Publisher description</subfield>
+	</datafield>
+	<datafield tag="856" ind1="4" ind2 ="2">
+		<subfield code="u">http://www.loc.gov/catdir/description/hm021/73180856.html</subfield>
+		<subfield code="3">Contributor biographical information</subfield>
+	</datafield>
+	<datafield tag="856" ind1="4" ind2 ="2">
+		<subfield code="u">http://www.loc.gov/catdir/enhancements/fy0737/73180856-b.html</subfield>
+	</datafield>
+	<datafield tag="902" ind1=" " ind2 =" ">
+		<subfield code="a">1-2</subfield>
+	</datafield>
+	<datafield tag="912" ind1=" " ind2 =" ">
+		<subfield code="i">21</subfield>
+	</datafield>
+	<datafield tag="914" ind1=" " ind2 =" ">
+		<subfield code="d">HOUGJ</subfield>
+		<subfield code="e">HOUGJ</subfield>
+		<subfield code="f">213</subfield>
+		<subfield code="g">BOOK</subfield>
+		<subfield code="h">0.00</subfield>
+		<subfield code="l">JUVENILE FICTION / Classics</subfield>
+		<subfield code="m">M</subfield>
+		<subfield code="o">JUV007000</subfield>
+		<subfield code="w">BOOK</subfield>
+	</datafield>
+	<datafield tag="922" ind1=" " ind2 =" ">
+		<subfield code="a">ocm00801261</subfield>
+	</datafield>
+	<datafield tag="927" ind1=" " ind2 =" ">
+		<subfield code="a">AUb10054078</subfield>
+	</datafield>
+	<datafield tag="930" ind1="1" ind2 ="0">
+		<subfield code="a">Curious George Rides a Bike</subfield>
+		<subfield code="c">Curious George Rides a Bike</subfield>
+		<subfield code="d">Curious George Rides a Bike</subfield>
+		<subfield code="f">0</subfield>
+	</datafield>
+	<datafield tag="931" ind1=" " ind2 =" ">
+		<subfield code="a">Accelerated Reader AR</subfield>
+		<subfield code="b">LG</subfield>
+		<subfield code="c">4.1</subfield>
+		<subfield code="d">0.5</subfield>
+		<subfield code="z">18666</subfield>
+	</datafield>
+	<datafield tag="940" ind1=" " ind2 =" ">
+		<subfield code="a">Rey, H. A.</subfield>
+		<subfield code="b">Rey, H. A.</subfield>
+	</datafield>
+	<datafield tag="941" ind1=" " ind2 =" ">
+		<subfield code="a">039516964X</subfield>
+	</datafield>
+	<datafield tag="942" ind1=" " ind2 =" ">
+		<subfield code="a">16.00</subfield>
+		<subfield code="d">USD</subfield>
+	</datafield>
+	<datafield tag="943" ind1=" " ind2 =" ">
+		<subfield code="a">SAL</subfield>
+		<subfield code="b">A</subfield>
+		<subfield code="c">JF</subfield>
+		<subfield code="d">JUV</subfield>
+		<subfield code="e">ENG</subfield>
+	</datafield>
+	<datafield tag="947" ind1=" " ind2 =" ">
+		<subfield code="a">BTB</subfield>
+		<subfield code="b">50906</subfield>
+		<subfield code="z">BNT</subfield>
+	</datafield>
+	<datafield tag="948" ind1=" " ind2 =" ">
+		<subfield code="c">1973/06/01</subfield>
+	</datafield>
+	<datafield tag="949" ind1=" " ind2 =" ">
+		<subfield code="a">10.50</subfield>
+		<subfield code="b">8.75</subfield>
+		<subfield code="c">0.25</subfield>
+		<subfield code="d">IN</subfield>
+		<subfield code="e">LB</subfield>
+		<subfield code="f">0.95</subfield>
+		<subfield code="g">0.95</subfield>
+		<subfield code="i">1973/10/01</subfield>
+		<subfield code="j">2008/03/23</subfield>
+	</datafield>
+	<datafield tag="953" ind1=" " ind2 =" ">
+		<subfield code="a">Houghton Mifflin</subfield>
+		<subfield code="b">Attn: Trade Order Processing</subfield>
+		<subfield code="c">181 Ballardvale st</subfield>
+		<subfield code="f">Wilmington</subfield>
+		<subfield code="g">MA</subfield>
+		<subfield code="h">USA</subfield>
+		<subfield code="i">01887</subfield>
+		<subfield code="l">Houghton Mifflin</subfield>
+	</datafield>
+	<datafield tag="955" ind1=" " ind2 =" ">
+		<subfield code="a">Reinforced</subfield>
+		<subfield code="c">Primary</subfield>
+	</datafield>
+</record>
+<record>
+	<leader>03053cam  2201213   4500</leader>
+	<controlfield tag="001">BK0000286795</controlfield>
+	<controlfield tag="003">AU</controlfield>
+	<controlfield tag="005">20031223200831.0</controlfield>
+	<controlfield tag="008">730123s1973    nyua   j      000 1 eng  </controlfield>
+	<datafield tag="010" ind1=" " ind2 =" ">
+		<subfield code="a">72010298</subfield>
+	</datafield>
+	<datafield tag="020" ind1=" " ind2 =" ">
+		<subfield code="a">0688200672 : HRD</subfield>
+		<subfield code="c">$16.99</subfield>
+	</datafield>
+	<datafield tag="037" ind1=" " ind2 =" ">
+		<subfield code="b">Harpercollins Childrens Books, Attn Elaine Nealon Keystone Industrial Park, Scranton, PA, USA, 18512</subfield>
+		<subfield code="n">SAN 200-2086</subfield>
+	</datafield>
+	<datafield tag="040" ind1=" " ind2 =" ">
+		<subfield code="a">DLC</subfield>
+		<subfield code="c">DLC</subfield>
+		<subfield code="d">DLC</subfield>
+	</datafield>
+	<datafield tag="050" ind1="0" ind2 ="0">
+		<subfield code="a">PZ7.C5792</subfield>
+		<subfield code="b">So</subfield>
+	</datafield>
+	<datafield tag="082" ind1="0" ind2 ="0">
+		<subfield code="a">[Fic]</subfield>
+	</datafield>
+	<datafield tag="092" ind1=" " ind2 =" ">
+		<subfield code="a">FIC</subfield>
+	</datafield>
+	<datafield tag="100" ind1="1" ind2 =" ">
+		<subfield code="a">Cleary, Beverly.</subfield>
+	</datafield>
+	<datafield tag="245" ind1="1" ind2 ="0">
+		<subfield code="a">Socks.</subfield>
+		<subfield code="c">Illustrated by Beatrice Darwin.</subfield>
+	</datafield>
+	<datafield tag="260" ind1=" " ind2 =" ">
+		<subfield code="a">New York,</subfield>
+		<subfield code="b">Morrow,</subfield>
+		<subfield code="c">1973.</subfield>
+	</datafield>
+	<datafield tag="300" ind1=" " ind2 =" ">
+		<subfield code="a">156 p.</subfield>
+		<subfield code="b">illus.</subfield>
+		<subfield code="c">22 cm.</subfield>
+	</datafield>
+	<datafield tag="350" ind1=" " ind2 =" ">
+		<subfield code="a">$4.25</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AAAW</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AACC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AACL</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AACO</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AAWC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ACFL</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ARMB</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BBBC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BBC6</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BFGA</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BREN</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT0J</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT1J</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT2J</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT3J</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT7J</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BTJ0</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BTJ8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BTJ9</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CC16</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CC17</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CC18</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CC19</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CLA2</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CMIN</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">EFSS</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">FFC3</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">FFC4</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">JC46</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">LLIN</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">OBBJ</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">SCE1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">SCH9</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">SEF4</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">TRJV</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">TTPB</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">WBBJ</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">WELJ</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XBBN</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XBCC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XBJF</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XBLC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XBLM</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XBUC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XBYA</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XODC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XOER</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZBA8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZBWC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZCN5</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZHE8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZHER</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZHO8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZLTN</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZM01</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZSCP</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZSF5</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZTH7</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZZCS</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZZW7</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZZZZ</subfield>
+	</datafield>
+	<datafield tag="520" ind1=" " ind2 =" ">
+		<subfield code="a">The happy home life of Socks, the cat, is disrupted by the addition of a new baby to the household.</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="1">
+		<subfield code="a">Cats</subfield>
+		<subfield code="x">Fiction.</subfield>
+	</datafield>
+	<datafield tag="700" ind1="1" ind2 =" ">
+		<subfield code="a">Darwin, Beatrice,</subfield>
+		<subfield code="e">illus.</subfield>
+	</datafield>
+	<datafield tag="856" ind1="4" ind2 ="2">
+		<subfield code="3">Publisher description</subfield>
+	</datafield>
+	<datafield tag="856" ind1="4" ind2 ="2">
+		<subfield code="u">http://www.loc.gov/catdir/description/hc043/72010298.html</subfield>
+	</datafield>
+	<datafield tag="902" ind1=" " ind2 =" ">
+		<subfield code="a">3-4</subfield>
+	</datafield>
+	<datafield tag="904" ind1=" " ind2 =" ">
+		<subfield code="a">890</subfield>
+	</datafield>
+	<datafield tag="912" ind1=" " ind2 =" ">
+		<subfield code="i">23</subfield>
+	</datafield>
+	<datafield tag="914" ind1=" " ind2 =" ">
+		<subfield code="a">OS</subfield>
+		<subfield code="d">HARJU</subfield>
+		<subfield code="e">HARJU</subfield>
+		<subfield code="f">215</subfield>
+		<subfield code="g">BOOK</subfield>
+		<subfield code="h">0.00</subfield>
+		<subfield code="l">JUVENILE FICTION / Family / Siblings</subfield>
+		<subfield code="m">M</subfield>
+		<subfield code="o">JUV013070</subfield>
+		<subfield code="w">BOOK</subfield>
+		<subfield code="z">156</subfield>
+	</datafield>
+	<datafield tag="922" ind1=" " ind2 =" ">
+		<subfield code="a">ocm00572003</subfield>
+	</datafield>
+	<datafield tag="927" ind1=" " ind2 =" ">
+		<subfield code="a">AUb10305097</subfield>
+	</datafield>
+	<datafield tag="930" ind1="1" ind2 ="0">
+		<subfield code="a">Socks</subfield>
+		<subfield code="c">Socks</subfield>
+		<subfield code="d">Socks</subfield>
+		<subfield code="f">0</subfield>
+	</datafield>
+	<datafield tag="931" ind1=" " ind2 =" ">
+		<subfield code="a">Accelerated Reader AR</subfield>
+		<subfield code="b">MG</subfield>
+		<subfield code="c">5.2</subfield>
+		<subfield code="d">2.0</subfield>
+		<subfield code="z">190</subfield>
+	</datafield>
+	<datafield tag="940" ind1=" " ind2 =" ">
+		<subfield code="a">Cleary, Beverly/ Darwin, Beatrice (ILT)</subfield>
+		<subfield code="b">Cleary, Beverly</subfield>
+		<subfield code="b">Darwin, Beatrice (ILT)</subfield>
+	</datafield>
+	<datafield tag="941" ind1=" " ind2 =" ">
+		<subfield code="a">0688200672</subfield>
+	</datafield>
+	<datafield tag="942" ind1=" " ind2 =" ">
+		<subfield code="a">16.99</subfield>
+		<subfield code="d">USD</subfield>
+	</datafield>
+	<datafield tag="943" ind1=" " ind2 =" ">
+		<subfield code="a">HRD</subfield>
+		<subfield code="b">A</subfield>
+		<subfield code="c">JF</subfield>
+		<subfield code="d">JUV</subfield>
+		<subfield code="e">ENG</subfield>
+	</datafield>
+	<datafield tag="947" ind1=" " ind2 =" ">
+		<subfield code="a">BTB</subfield>
+		<subfield code="b">63964</subfield>
+		<subfield code="z">BNT</subfield>
+	</datafield>
+	<datafield tag="948" ind1=" " ind2 =" ">
+		<subfield code="c">1973/08/01</subfield>
+	</datafield>
+	<datafield tag="949" ind1=" " ind2 =" ">
+		<subfield code="a">8.25</subfield>
+		<subfield code="b">6.00</subfield>
+		<subfield code="c">0.75</subfield>
+		<subfield code="d">IN</subfield>
+		<subfield code="e">LB</subfield>
+		<subfield code="f">0.70</subfield>
+		<subfield code="g">0.70</subfield>
+		<subfield code="i">1973/06/01</subfield>
+		<subfield code="j">2008/03/25</subfield>
+	</datafield>
+	<datafield tag="953" ind1=" " ind2 =" ">
+		<subfield code="a">Harpercollins Childrens Books</subfield>
+		<subfield code="b">Attn Elaine Nealon</subfield>
+		<subfield code="c">Keystone Industrial Park</subfield>
+		<subfield code="f">Scranton</subfield>
+		<subfield code="g">PA</subfield>
+		<subfield code="h">USA</subfield>
+		<subfield code="i">18512</subfield>
+		<subfield code="l">Harpercollins Childrens Books</subfield>
+	</datafield>
+	<datafield tag="955" ind1=" " ind2 =" ">
+		<subfield code="a">Hardcover</subfield>
+		<subfield code="c">Primary</subfield>
+	</datafield>
+</record>
+<record>
+	<leader>03124nam  2201177 a 4500</leader>
+	<controlfield tag="001">BK0000359162</controlfield>
+	<controlfield tag="005">19951012122112.0</controlfield>
+	<controlfield tag="008">750425r19951975nyua          001 0 eng d</controlfield>
+	<datafield tag="010" ind1=" " ind2 =" ">
+		<subfield code="a">BL 99767021</subfield>
+	</datafield>
+	<datafield tag="020" ind1=" " ind2 =" ">
+		<subfield code="a">0026045702 : HRD</subfield>
+		<subfield code="c">$35.00</subfield>
+	</datafield>
+	<datafield tag="037" ind1=" " ind2 =" ">
+		<subfield code="b">Simon &amp; Schuster, Order Dept 100 Front st, Riverside, NJ, USA, 08075</subfield>
+		<subfield code="n">SAN 200-2442</subfield>
+	</datafield>
+	<datafield tag="040" ind1=" " ind2 =" ">
+		<subfield code="a">Baker &amp; Taylor</subfield>
+		<subfield code="c">Baker &amp; Taylor</subfield>
+	</datafield>
+	<datafield tag="050" ind1="1" ind2 ="4">
+		<subfield code="a">TX715</subfield>
+		<subfield code="b">.R75 1995</subfield>
+	</datafield>
+	<datafield tag="082" ind1="0" ind2 ="4">
+		<subfield code="a">641.5</subfield>
+		<subfield code="2">20</subfield>
+	</datafield>
+	<datafield tag="092" ind1=" " ind2 =" ">
+		<subfield code="a">641.5000</subfield>
+	</datafield>
+	<datafield tag="100" ind1="1" ind2 =" ">
+		<subfield code="a">Rombauer, Irma von Starkloff,</subfield>
+		<subfield code="d">1877-1962.</subfield>
+	</datafield>
+	<datafield tag="245" ind1="1" ind2 ="0">
+		<subfield code="a">Joy of cooking /</subfield>
+		<subfield code="c">Irma S. Rombauer, Marion Rombauer Becker ; illustrated by Ginnie Hofmann and Ikki Matsumoto.</subfield>
+	</datafield>
+	<datafield tag="260" ind1=" " ind2 =" ">
+		<subfield code="a">New York :</subfield>
+		<subfield code="b">Scribner,</subfield>
+		<subfield code="c">1995, c1975.</subfield>
+	</datafield>
+	<datafield tag="300" ind1=" " ind2 =" ">
+		<subfield code="a">915 p. :</subfield>
+		<subfield code="b">ill. ;</subfield>
+		<subfield code="c">25 cm. +</subfield>
+		<subfield code="e">1 free holiday recipe booklet.</subfield>
+	</datafield>
+	<datafield tag="500" ind1=" " ind2 =" ">
+		<subfield code="a">Originally published: Indianapolis, Ind. : Bobbs-Merrill, 1975.</subfield>
+	</datafield>
+	<datafield tag="500" ind1=" " ind2 =" ">
+		<subfield code="a">Includes index.</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">A5L1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AAAP</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AAAW</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ACFL</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AJEF</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AOAK</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BBJH</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BBSH</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BPL3</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT0K</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT1K</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT2K</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT3K</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT4K</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT9K</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BTBC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BTR1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BTRS</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CMIN</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">EGPL</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">GDRF</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">GR10</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">GRS4</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">HWTO</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">JC12</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">JC34</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">JCL</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">JH6</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">LLIN</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">LVPL</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ML01</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">MLOC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">MLTN</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">OBBA</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">PB11</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">PBGA</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">PBL0</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">PBL9</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">PRGY</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">RDC2</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">RDCT</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">RSL4</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">RSL5</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">SH13</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">SH14</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">SH15</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">TRAD</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VNF0</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XBBN</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XBCC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XBLC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XBUC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XODC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XOER</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XRFM</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZHO8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZMWD</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZSCS</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZSN2</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZSN9</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZTH7</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZZ43</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZZW7</subfield>
+	</datafield>
+	<datafield tag="520" ind1=" " ind2 =" ">
+		<subfield code="a">Detailed information on foods and cooking techniques accompany fundamental recipes for hors d'oeuvres, soups, salads, main dishes, side dishes, breads, pies, cookies, candies, and desserts</subfield>
+	</datafield>
+	<datafield tag="650" ind1="0" ind2 ="0">
+		<subfield code="a">Cookery, American.</subfield>
+	</datafield>
+	<datafield tag="700" ind1="1" ind2 =" ">
+		<subfield code="a">Becker, Marion Rombauer.</subfield>
+	</datafield>
+	<datafield tag="912" ind1=" " ind2 =" ">
+		<subfield code="m">40</subfield>
+	</datafield>
+	<datafield tag="914" ind1=" " ind2 =" ">
+		<subfield code="d">SCRIB</subfield>
+		<subfield code="e">SIMON</subfield>
+		<subfield code="f">240</subfield>
+		<subfield code="g">BOOK</subfield>
+		<subfield code="h">0.00</subfield>
+		<subfield code="l">COOKING / Reference</subfield>
+		<subfield code="m">M</subfield>
+		<subfield code="o">CKB071000</subfield>
+		<subfield code="w">BOOK</subfield>
+	</datafield>
+	<datafield tag="922" ind1=" " ind2 =" ">
+		<subfield code="a">ocm34073051</subfield>
+	</datafield>
+	<datafield tag="930" ind1="1" ind2 ="0">
+		<subfield code="a">Joy of Cooking</subfield>
+		<subfield code="c">Joy of Cooking</subfield>
+		<subfield code="d">Joy of Cooking</subfield>
+		<subfield code="f">0</subfield>
+	</datafield>
+	<datafield tag="932" ind1=" " ind2 =" ">
+		<subfield code="a">Revised</subfield>
+	</datafield>
+	<datafield tag="940" ind1=" " ind2 =" ">
+		<subfield code="a">Rombauer, Irma von Starkloff</subfield>
+		<subfield code="b">Rombauer, Irma von Starkloff</subfield>
+	</datafield>
+	<datafield tag="941" ind1=" " ind2 =" ">
+		<subfield code="a">0026045702</subfield>
+	</datafield>
+	<datafield tag="942" ind1=" " ind2 =" ">
+		<subfield code="a">35.00</subfield>
+		<subfield code="d">USD</subfield>
+	</datafield>
+	<datafield tag="943" ind1=" " ind2 =" ">
+		<subfield code="a">HRD</subfield>
+		<subfield code="b">A</subfield>
+		<subfield code="c">NF</subfield>
+		<subfield code="d">GEN</subfield>
+		<subfield code="e">ENG</subfield>
+	</datafield>
+	<datafield tag="947" ind1=" " ind2 =" ">
+		<subfield code="a">BTB</subfield>
+		<subfield code="b">80132</subfield>
+		<subfield code="z">BNT</subfield>
+	</datafield>
+	<datafield tag="948" ind1=" " ind2 =" ">
+		<subfield code="c">1975/06/01</subfield>
+	</datafield>
+	<datafield tag="949" ind1=" " ind2 =" ">
+		<subfield code="a">9.50</subfield>
+		<subfield code="b">7.00</subfield>
+		<subfield code="c">2.00</subfield>
+		<subfield code="d">IN</subfield>
+		<subfield code="e">LB</subfield>
+		<subfield code="f">3.00</subfield>
+		<subfield code="g">3.05</subfield>
+		<subfield code="i">1975/06/01</subfield>
+		<subfield code="j">2008/03/25</subfield>
+	</datafield>
+	<datafield tag="953" ind1=" " ind2 =" ">
+		<subfield code="a">Simon &amp; Schuster</subfield>
+		<subfield code="b">Order Dept</subfield>
+		<subfield code="c">100 Front st</subfield>
+		<subfield code="f">Riverside</subfield>
+		<subfield code="g">NJ</subfield>
+		<subfield code="h">USA</subfield>
+		<subfield code="i">08075</subfield>
+		<subfield code="l">Scribner</subfield>
+	</datafield>
+	<datafield tag="955" ind1=" " ind2 =" ">
+		<subfield code="a">Hardcover</subfield>
+		<subfield code="c">Primary</subfield>
+		<subfield code="d">Revised</subfield>
+	</datafield>
+</record>
+<record>
+	<leader>02183cam  22006851  4500</leader>
+	<controlfield tag="001">BK0000373285</controlfield>
+	<controlfield tag="003">AU</controlfield>
+	<controlfield tag="005">20020419135849.0</controlfield>
+	<controlfield tag="008">690227s1968    nyu           000 1 eng  </controlfield>
+	<datafield tag="010" ind1=" " ind2 =" ">
+		<subfield code="a">68029754</subfield>
+	</datafield>
+	<datafield tag="020" ind1=" " ind2 =" ">
+		<subfield code="a">0453002692 : HRD</subfield>
+		<subfield code="c">$7.95</subfield>
+	</datafield>
+	<datafield tag="037" ind1=" " ind2 =" ">
+		<subfield code="b">Penguin Group USA, Attn: Order Processing 405 Murray Hill Pkwy, E Rutherford, NJ, USA, 07073-2136</subfield>
+		<subfield code="n">SAN 282-5074</subfield>
+	</datafield>
+	<datafield tag="040" ind1=" " ind2 =" ">
+		<subfield code="a">DLC</subfield>
+		<subfield code="c">DLC</subfield>
+		<subfield code="d">DLC</subfield>
+		<subfield code="d">OCoLC</subfield>
+		<subfield code="d">DLC</subfield>
+	</datafield>
+	<datafield tag="050" ind1="0" ind2 ="0">
+		<subfield code="a">PZ3.C551205</subfield>
+		<subfield code="b">Tw3</subfield>
+	</datafield>
+	<datafield tag="050" ind1="0" ind2 ="0">
+		<subfield code="a">PR6005.L36</subfield>
+	</datafield>
+	<datafield tag="082" ind1="0" ind2 ="0">
+		<subfield code="a">823/.9/14</subfield>
+	</datafield>
+	<datafield tag="092" ind1=" " ind2 =" ">
+		<subfield code="a">823.9140</subfield>
+	</datafield>
+	<datafield tag="100" ind1="1" ind2 =" ">
+		<subfield code="a">Clarke, Arthur C.</subfield>
+		<subfield code="q">(Arthur Charles),</subfield>
+		<subfield code="d">1917-2008.</subfield>
+	</datafield>
+	<datafield tag="245" ind1="1" ind2 ="0">
+		<subfield code="a">2001; a space odyssey,</subfield>
+		<subfield code="b">A Space Odyssey</subfield>
+		<subfield code="c">by Arthur C. Clarke.</subfield>
+	</datafield>
+	<datafield tag="260" ind1=" " ind2 =" ">
+		<subfield code="a">[New York]</subfield>
+		<subfield code="b">New American Library</subfield>
+		<subfield code="c">[c1968]</subfield>
+	</datafield>
+	<datafield tag="300" ind1=" " ind2 =" ">
+		<subfield code="a">221 p.</subfield>
+		<subfield code="c">22 cm.</subfield>
+	</datafield>
+	<datafield tag="350" ind1=" " ind2 =" ">
+		<subfield code="a">4.95</subfield>
+	</datafield>
+	<datafield tag="500" ind1=" " ind2 =" ">
+		<subfield code="a">&quot;Based on a screenplay by Stanley Kubrick and Arthur C. Clarke.&quot;</subfield>
+	</datafield>
+	<datafield tag="500" ind1=" " ind2 =" ">
+		<subfield code="a">Sequel: 2010, odyssey 2.</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AAAA</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AAAW</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AAEI</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">GNRF</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">JCL</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">JH5</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">PBGA</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZHO8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZSF5</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZTH7</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZUC1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZZSP</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZZW7</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZZWK</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZZZB</subfield>
+	</datafield>
+	<datafield tag="520" ind1=" " ind2 =" ">
+		<subfield code="a">A computer named Hal is the jealous villain of a novel set thirty years in the future</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="0">
+		<subfield code="a">Twenty-first century</subfield>
+		<subfield code="x">Fiction.</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="0">
+		<subfield code="a">Computers</subfield>
+		<subfield code="x">Fiction.</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="0">
+		<subfield code="a">Space vehicles</subfield>
+		<subfield code="x">Fiction.</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="0">
+		<subfield code="a">Human-computer interaction</subfield>
+		<subfield code="x">Fiction.</subfield>
+	</datafield>
+	<datafield tag="655" ind1=" " ind2 ="7">
+		<subfield code="a">Science fiction.</subfield>
+		<subfield code="2">gsafd</subfield>
+	</datafield>
+	<datafield tag="655" ind1=" " ind2 ="7">
+		<subfield code="a">Movie novels.</subfield>
+		<subfield code="2">gsafd</subfield>
+	</datafield>
+	<datafield tag="700" ind1="1" ind2 =" ">
+		<subfield code="a">Kubrick, Stanley.</subfield>
+	</datafield>
+	<datafield tag="914" ind1=" " ind2 =" ">
+		<subfield code="a">OP</subfield>
+		<subfield code="d">NWAMT</subfield>
+		<subfield code="e">PENGU</subfield>
+		<subfield code="f">720</subfield>
+		<subfield code="g">BOOK</subfield>
+		<subfield code="h">0.00</subfield>
+		<subfield code="m">M</subfield>
+		<subfield code="w">BOOK</subfield>
+	</datafield>
+	<datafield tag="922" ind1=" " ind2 =" ">
+		<subfield code="a">ocm00449499</subfield>
+	</datafield>
+	<datafield tag="927" ind1=" " ind2 =" ">
+		<subfield code="a">AUb10332512</subfield>
+	</datafield>
+	<datafield tag="930" ind1="1" ind2 ="0">
+		<subfield code="a">2001</subfield>
+		<subfield code="b">A Space Odyssey</subfield>
+		<subfield code="c">2001 : A Space Odyssey</subfield>
+		<subfield code="d">2001 A Space Odyssey</subfield>
+		<subfield code="f">0</subfield>
+	</datafield>
+	<datafield tag="940" ind1=" " ind2 =" ">
+		<subfield code="a">Clarke, Arthur C.</subfield>
+		<subfield code="b">Clarke, Arthur C.</subfield>
+	</datafield>
+	<datafield tag="941" ind1=" " ind2 =" ">
+		<subfield code="a">0453002692</subfield>
+	</datafield>
+	<datafield tag="942" ind1=" " ind2 =" ">
+		<subfield code="a">7.95</subfield>
+		<subfield code="d">USD</subfield>
+	</datafield>
+	<datafield tag="943" ind1=" " ind2 =" ">
+		<subfield code="a">HRD</subfield>
+		<subfield code="b">A</subfield>
+		<subfield code="c">FI</subfield>
+		<subfield code="d">GEN</subfield>
+		<subfield code="e">ENG</subfield>
+	</datafield>
+	<datafield tag="947" ind1=" " ind2 =" ">
+		<subfield code="a">BTB</subfield>
+		<subfield code="b">83317</subfield>
+		<subfield code="z">BNT</subfield>
+	</datafield>
+	<datafield tag="948" ind1=" " ind2 =" ">
+		<subfield code="c">1968/06/01</subfield>
+	</datafield>
+	<datafield tag="949" ind1=" " ind2 =" ">
+		<subfield code="i">1972/06/01</subfield>
+		<subfield code="j">2008/03/23</subfield>
+	</datafield>
+	<datafield tag="953" ind1=" " ind2 =" ">
+		<subfield code="a">Penguin Group USA</subfield>
+		<subfield code="b">Attn: Order Processing</subfield>
+		<subfield code="c">405 Murray Hill Pkwy</subfield>
+		<subfield code="f">E Rutherford</subfield>
+		<subfield code="g">NJ</subfield>
+		<subfield code="h">USA</subfield>
+		<subfield code="i">07073-2136</subfield>
+		<subfield code="l">New Amer Library</subfield>
+	</datafield>
+	<datafield tag="955" ind1=" " ind2 =" ">
+		<subfield code="a">Hardcover</subfield>
+		<subfield code="c">Primary</subfield>
+	</datafield>
+</record>
+<record>
+	<leader>02236cam  2200769   4500</leader>
+	<controlfield tag="001">BK0000476444</controlfield>
+	<controlfield tag="003">AU</controlfield>
+	<controlfield tag="005">20020425084023.0</controlfield>
+	<controlfield tag="008">730305s1973    nyu           000 1 eng  </controlfield>
+	<datafield tag="010" ind1=" " ind2 =" ">
+		<subfield code="a">73003497</subfield>
+	</datafield>
+	<datafield tag="020" ind1=" " ind2 =" ">
+		<subfield code="a">0151768358 : HRD</subfield>
+		<subfield code="c">$8.95</subfield>
+	</datafield>
+	<datafield tag="037" ind1=" " ind2 =" ">
+		<subfield code="b">Harcourt, Attn Trade Order Fulfillment 6277 Sea Harbor Dr, Orlando, FL, USA, 32887-4300, (619)6996768</subfield>
+		<subfield code="n">SAN 200-2108</subfield>
+	</datafield>
+	<datafield tag="040" ind1=" " ind2 =" ">
+		<subfield code="a">DLC</subfield>
+		<subfield code="c">DLC</subfield>
+		<subfield code="d">DLC</subfield>
+		<subfield code="d">OCoLC</subfield>
+	</datafield>
+	<datafield tag="050" ind1="0" ind2 ="0">
+		<subfield code="a">PZ3.C551205</subfield>
+		<subfield code="b">Ren3</subfield>
+	</datafield>
+	<datafield tag="050" ind1="0" ind2 ="0">
+		<subfield code="a">PR6005.L36</subfield>
+	</datafield>
+	<datafield tag="051" ind1=" " ind2 =" ">
+		<subfield code="a">PR6005.L36</subfield>
+		<subfield code="b">R4</subfield>
+		<subfield code="c">Copy 2.</subfield>
+	</datafield>
+	<datafield tag="082" ind1="0" ind2 ="0">
+		<subfield code="a">823/.9/14</subfield>
+	</datafield>
+	<datafield tag="092" ind1=" " ind2 =" ">
+		<subfield code="a">823.9140</subfield>
+	</datafield>
+	<datafield tag="100" ind1="1" ind2 =" ">
+		<subfield code="a">Clarke, Arthur C.</subfield>
+		<subfield code="q">(Arthur Charles),</subfield>
+		<subfield code="d">1917-2008.</subfield>
+	</datafield>
+	<datafield tag="245" ind1="1" ind2 ="0">
+		<subfield code="a">Rendezvous with Rama,</subfield>
+		<subfield code="c">by Arthur C. Clarke.</subfield>
+	</datafield>
+	<datafield tag="250" ind1=" " ind2 =" ">
+		<subfield code="a">[1st ed.]</subfield>
+	</datafield>
+	<datafield tag="260" ind1=" " ind2 =" ">
+		<subfield code="a">New York,</subfield>
+		<subfield code="b">Harcourt Brace Jovanovich</subfield>
+		<subfield code="c">[1973]</subfield>
+	</datafield>
+	<datafield tag="300" ind1=" " ind2 =" ">
+		<subfield code="a">303 p.</subfield>
+		<subfield code="c">22 cm.</subfield>
+	</datafield>
+	<datafield tag="350" ind1=" " ind2 =" ">
+		<subfield code="a">$6.95</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AAAA</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AAAW</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AACC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AACO</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ACFL</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BREN</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">GNRF</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">JCL</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">JCOP</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">TRAD</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XBBN</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XBCC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XBLC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZBA8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZC96</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZCM8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZCN5</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZHE8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZHER</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZHO8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZLTN</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZSF5</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZTH7</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZUC1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZZSP</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZZW7</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZZZB</subfield>
+	</datafield>
+	<datafield tag="520" ind1=" " ind2 =" ">
+		<subfield code="a">During the twenty-second century, a space probe's investigation of a mysterious, cylindrical asteroid brings man into contact with an extra-galactic civilization</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="0">
+		<subfield code="a">Rama (Imaginary space vehicle)</subfield>
+		<subfield code="x">Fiction.</subfield>
+	</datafield>
+	<datafield tag="655" ind1=" " ind2 ="7">
+		<subfield code="a">Science fiction.</subfield>
+		<subfield code="2">gsafd</subfield>
+	</datafield>
+	<datafield tag="914" ind1=" " ind2 =" ">
+		<subfield code="a">OP</subfield>
+		<subfield code="d">HARCO</subfield>
+		<subfield code="e">HARCO</subfield>
+		<subfield code="f">720</subfield>
+		<subfield code="g">BOOK</subfield>
+		<subfield code="h">0.00</subfield>
+		<subfield code="m">M</subfield>
+		<subfield code="w">BOOK</subfield>
+		<subfield code="z">303</subfield>
+	</datafield>
+	<datafield tag="922" ind1=" " ind2 =" ">
+		<subfield code="a">ocm00596321</subfield>
+	</datafield>
+	<datafield tag="927" ind1=" " ind2 =" ">
+		<subfield code="a">AUb10260304</subfield>
+	</datafield>
+	<datafield tag="930" ind1="1" ind2 ="0">
+		<subfield code="a">Rendezvous With Rama</subfield>
+		<subfield code="c">Rendezvous With Rama</subfield>
+		<subfield code="d">Rendezvous With Rama</subfield>
+		<subfield code="f">0</subfield>
+	</datafield>
+	<datafield tag="940" ind1=" " ind2 =" ">
+		<subfield code="a">Clarke, Arthur C.</subfield>
+		<subfield code="b">Clarke, Arthur C.</subfield>
+	</datafield>
+	<datafield tag="941" ind1=" " ind2 =" ">
+		<subfield code="a">0151768358</subfield>
+	</datafield>
+	<datafield tag="942" ind1=" " ind2 =" ">
+		<subfield code="a">8.95</subfield>
+		<subfield code="d">USD</subfield>
+	</datafield>
+	<datafield tag="943" ind1=" " ind2 =" ">
+		<subfield code="a">HRD</subfield>
+		<subfield code="b">A</subfield>
+		<subfield code="c">FI</subfield>
+		<subfield code="d">GEN</subfield>
+		<subfield code="e">ENG</subfield>
+	</datafield>
+	<datafield tag="947" ind1=" " ind2 =" ">
+		<subfield code="a">BTB</subfield>
+		<subfield code="b">106381</subfield>
+		<subfield code="z">BNT</subfield>
+	</datafield>
+	<datafield tag="948" ind1=" " ind2 =" ">
+		<subfield code="c">1973/08/01</subfield>
+	</datafield>
+	<datafield tag="949" ind1=" " ind2 =" ">
+		<subfield code="i">1973/07/01</subfield>
+		<subfield code="j">2008/03/23</subfield>
+	</datafield>
+	<datafield tag="953" ind1=" " ind2 =" ">
+		<subfield code="a">Harcourt</subfield>
+		<subfield code="b">Attn Trade Order Fulfillment</subfield>
+		<subfield code="c">6277 Sea Harbor Dr</subfield>
+		<subfield code="f">Orlando</subfield>
+		<subfield code="g">FL</subfield>
+		<subfield code="h">USA</subfield>
+		<subfield code="i">32887-4300</subfield>
+		<subfield code="l">Harcourt</subfield>
+	</datafield>
+	<datafield tag="955" ind1=" " ind2 =" ">
+		<subfield code="a">Hardcover</subfield>
+		<subfield code="c">Primary</subfield>
+	</datafield>
+</record>
+<record>
+	<leader>02777cam  22009011  4500</leader>
+	<controlfield tag="001">BK0000514127</controlfield>
+	<controlfield tag="003">AU</controlfield>
+	<controlfield tag="005">20001024121650.0</controlfield>
+	<controlfield tag="008">850820s1953    nyua   j      000 1 eng  </controlfield>
+	<datafield tag="010" ind1=" " ind2 =" ">
+		<subfield code="a">52007527</subfield>
+	</datafield>
+	<datafield tag="020" ind1=" " ind2 =" ">
+		<subfield code="a">006026425X : HRD</subfield>
+		<subfield code="c">$16.99</subfield>
+	</datafield>
+	<datafield tag="037" ind1=" " ind2 =" ">
+		<subfield code="b">Harpercollins Childrens Books, Attn Elaine Nealon Keystone Industrial Park, Scranton, PA, USA, 18512</subfield>
+		<subfield code="n">SAN 200-2086</subfield>
+	</datafield>
+	<datafield tag="040" ind1=" " ind2 =" ">
+		<subfield code="a">DLC</subfield>
+		<subfield code="c">DLC</subfield>
+		<subfield code="d">DLC</subfield>
+	</datafield>
+	<datafield tag="050" ind1="0" ind2 ="0">
+		<subfield code="a">PZ7.W6461</subfield>
+		<subfield code="b">Far2</subfield>
+	</datafield>
+	<datafield tag="082" ind1="0" ind2 ="0">
+		<subfield code="a">[Fic]</subfield>
+	</datafield>
+	<datafield tag="092" ind1=" " ind2 =" ">
+		<subfield code="a">FIC</subfield>
+	</datafield>
+	<datafield tag="100" ind1="1" ind2 =" ">
+		<subfield code="a">Wilder, Laura Ingalls,</subfield>
+		<subfield code="d">1867-1957.</subfield>
+	</datafield>
+	<datafield tag="245" ind1="1" ind2 ="0">
+		<subfield code="a">Farmer boy;</subfield>
+		<subfield code="c">illustrated by Garth Williams.</subfield>
+	</datafield>
+	<datafield tag="250" ind1=" " ind2 =" ">
+		<subfield code="a">Newly illustrated, uniform ed.</subfield>
+	</datafield>
+	<datafield tag="260" ind1=" " ind2 =" ">
+		<subfield code="a">New York,</subfield>
+		<subfield code="b">Harper,</subfield>
+		<subfield code="c">1953.</subfield>
+	</datafield>
+	<datafield tag="300" ind1=" " ind2 =" ">
+		<subfield code="a">371 p.</subfield>
+		<subfield code="b">illus.</subfield>
+		<subfield code="c">21 cm.</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AAAA</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ACFL</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ADLT</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ARMB</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BKL2</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BKSS</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT0J</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT0K</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT1J</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT7J</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BTJ8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BTJ9</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CB86</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CMIN</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CPR3</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">HG94</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">HT03</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">LLIN</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ML01</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">RDC2</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">RDCT</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">STP1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">UIL9</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">WSI4</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XBJF</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XODC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XOER</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZBWC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZHE8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZHER</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZM26</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZZSP</subfield>
+	</datafield>
+	<datafield tag="520" ind1=" " ind2 =" ">
+		<subfield code="a">Nine-year-old Almanzo lives with his family on a big farm in New York State at the end of the nineteenth century. He raises his own two calves, helps cut ice and shear sheep, and longs for the day he can have his own colt.</subfield>
+	</datafield>
+	<datafield tag="600" ind1="1" ind2 ="0">
+		<subfield code="a">Wilder, Almanzo</subfield>
+		<subfield code="v">Juvenile fiction.</subfield>
+	</datafield>
+	<datafield tag="600" ind1="1" ind2 ="1">
+		<subfield code="a">Wilder, Almanzo</subfield>
+		<subfield code="v">Fiction.</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="1">
+		<subfield code="a">Farm life</subfield>
+		<subfield code="z">New York (State)</subfield>
+		<subfield code="v">Fiction.</subfield>
+	</datafield>
+	<datafield tag="651" ind1=" " ind2 ="1">
+		<subfield code="a">New York (State)</subfield>
+		<subfield code="v">Fiction.</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="1">
+		<subfield code="a">Family life</subfield>
+		<subfield code="z">New York (State)</subfield>
+		<subfield code="v">Fiction.</subfield>
+	</datafield>
+	<datafield tag="600" ind1="1" ind2 ="1">
+		<subfield code="a">Wilder, Laura Ingalls,</subfield>
+		<subfield code="d">1867-1957</subfield>
+		<subfield code="x">Family</subfield>
+		<subfield code="v">Fiction.</subfield>
+	</datafield>
+	<datafield tag="700" ind1="1" ind2 =" ">
+		<subfield code="a">Williams, Garth,</subfield>
+		<subfield code="e">illus.</subfield>
+	</datafield>
+	<datafield tag="902" ind1=" " ind2 =" ">
+		<subfield code="a">4-6</subfield>
+	</datafield>
+	<datafield tag="904" ind1=" " ind2 =" ">
+		<subfield code="a">840</subfield>
+	</datafield>
+	<datafield tag="912" ind1=" " ind2 =" ">
+		<subfield code="b">01</subfield>
+		<subfield code="d">05</subfield>
+		<subfield code="i">24</subfield>
+		<subfield code="j">78</subfield>
+	</datafield>
+	<datafield tag="914" ind1=" " ind2 =" ">
+		<subfield code="d">HARJU</subfield>
+		<subfield code="e">HARJU</subfield>
+		<subfield code="f">216</subfield>
+		<subfield code="g">BOOK</subfield>
+		<subfield code="h">0.00</subfield>
+		<subfield code="l">JUVENILE FICTION / Lifestyles / Country Life</subfield>
+		<subfield code="m">M</subfield>
+		<subfield code="o">JUV024000</subfield>
+		<subfield code="w">BOOK</subfield>
+	</datafield>
+	<datafield tag="922" ind1=" " ind2 =" ">
+		<subfield code="a">ocm00224695</subfield>
+	</datafield>
+	<datafield tag="927" ind1=" " ind2 =" ">
+		<subfield code="a">AUb10215464</subfield>
+	</datafield>
+	<datafield tag="930" ind1="1" ind2 ="0">
+		<subfield code="a">Farmer Boy</subfield>
+		<subfield code="c">Farmer Boy</subfield>
+		<subfield code="d">Farmer Boy</subfield>
+		<subfield code="f">0</subfield>
+	</datafield>
+	<datafield tag="931" ind1=" " ind2 =" ">
+		<subfield code="a">Accelerated Reader AR</subfield>
+		<subfield code="b">MG</subfield>
+		<subfield code="c">5.2</subfield>
+		<subfield code="d">9.0</subfield>
+		<subfield code="z">112</subfield>
+	</datafield>
+	<datafield tag="940" ind1=" " ind2 =" ">
+		<subfield code="a">Wilder, Laura Ingalls</subfield>
+		<subfield code="b">Wilder, Laura Ingalls</subfield>
+	</datafield>
+	<datafield tag="941" ind1=" " ind2 =" ">
+		<subfield code="a">006026425X</subfield>
+	</datafield>
+	<datafield tag="942" ind1=" " ind2 =" ">
+		<subfield code="a">16.99</subfield>
+		<subfield code="d">USD</subfield>
+	</datafield>
+	<datafield tag="943" ind1=" " ind2 =" ">
+		<subfield code="a">HRD</subfield>
+		<subfield code="b">A</subfield>
+		<subfield code="c">JF</subfield>
+		<subfield code="d">JUV</subfield>
+		<subfield code="e">ENG</subfield>
+	</datafield>
+	<datafield tag="947" ind1=" " ind2 =" ">
+		<subfield code="a">BTB</subfield>
+		<subfield code="b">115935</subfield>
+		<subfield code="z">BNT</subfield>
+	</datafield>
+	<datafield tag="948" ind1=" " ind2 =" ">
+		<subfield code="c">1953/06/01</subfield>
+	</datafield>
+	<datafield tag="949" ind1=" " ind2 =" ">
+		<subfield code="a">8.30</subfield>
+		<subfield code="b">5.80</subfield>
+		<subfield code="c">1.35</subfield>
+		<subfield code="d">IN</subfield>
+		<subfield code="e">LB</subfield>
+		<subfield code="f">1.40</subfield>
+		<subfield code="g">1.40</subfield>
+		<subfield code="i">1981/12/23</subfield>
+		<subfield code="j">2008/03/23</subfield>
+	</datafield>
+	<datafield tag="953" ind1=" " ind2 =" ">
+		<subfield code="a">Harpercollins Childrens Books</subfield>
+		<subfield code="b">Attn Elaine Nealon</subfield>
+		<subfield code="c">Keystone Industrial Park</subfield>
+		<subfield code="f">Scranton</subfield>
+		<subfield code="g">PA</subfield>
+		<subfield code="h">USA</subfield>
+		<subfield code="i">18512</subfield>
+		<subfield code="l">Harpercollins Childrens Books</subfield>
+	</datafield>
+	<datafield tag="955" ind1=" " ind2 =" ">
+		<subfield code="a">Hardcover</subfield>
+		<subfield code="c">Primary</subfield>
+	</datafield>
+</record>
+<record>
+	<leader>03216cam  22012731  4500</leader>
+	<controlfield tag="001">BK0000520563</controlfield>
+	<controlfield tag="003">AU</controlfield>
+	<controlfield tag="005">19991005040620.0</controlfield>
+	<controlfield tag="008">990716s1940    nyua   j      000 1 eng d</controlfield>
+	<datafield tag="010" ind1=" " ind2 =" ">
+		<subfield code="a">40027753</subfield>
+	</datafield>
+	<datafield tag="020" ind1=" " ind2 =" ">
+		<subfield code="a">0394900774 : LIB</subfield>
+		<subfield code="c">$15.99</subfield>
+	</datafield>
+	<datafield tag="037" ind1=" " ind2 =" ">
+		<subfield code="b">Random House Childrens Books, C/O Random House Inc 400 Hahn rd, Westminster, MD, USA, 21157</subfield>
+		<subfield code="n">SAN 201-3975</subfield>
+	</datafield>
+	<datafield tag="040" ind1=" " ind2 =" ">
+		<subfield code="a">DLC</subfield>
+		<subfield code="c">DLC</subfield>
+		<subfield code="d">DLC</subfield>
+	</datafield>
+	<datafield tag="050" ind1="0" ind2 ="0">
+		<subfield code="a">PZ10.3.G257</subfield>
+		<subfield code="b">Ho</subfield>
+	</datafield>
+	<datafield tag="082" ind1="0" ind2 ="0">
+		<subfield code="a">811</subfield>
+	</datafield>
+	<datafield tag="092" ind1=" " ind2 =" ">
+		<subfield code="a">811.0000</subfield>
+	</datafield>
+	<datafield tag="100" ind1="1" ind2 =" ">
+		<subfield code="a">Seuss,</subfield>
+		<subfield code="c">Dr.</subfield>
+	</datafield>
+	<datafield tag="245" ind1="1" ind2 ="0">
+		<subfield code="a">Horton hatches the egg,</subfield>
+		<subfield code="c">by Dr. Seuss.</subfield>
+	</datafield>
+	<datafield tag="260" ind1=" " ind2 =" ">
+		<subfield code="a">New York,</subfield>
+		<subfield code="b">Random House</subfield>
+		<subfield code="c">[c1940]</subfield>
+	</datafield>
+	<datafield tag="300" ind1=" " ind2 =" ">
+		<subfield code="a">[55] p.</subfield>
+		<subfield code="b">col. illus.</subfield>
+		<subfield code="c">27 x 22 cm.</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AAAW</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AACC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AACL</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AAEI</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ACFL</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AJEF</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AZ3</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AZ4</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AZ5</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AZ6</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BBBC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BFGA</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BIB9</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BRRL</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BS01</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT0J</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT1J</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT2J</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT3J</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT4J</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT9J</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BTB</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BTP1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BTRE</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CARI</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CB86</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CC16</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CC17</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CC18</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CC19</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CCS7</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CLA2</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CMIN</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CNPC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ES81</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ES91</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ESC1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">EZFC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">HMPB</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">HT03</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">LVPL</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">MLTN</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">NC70</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">NYTP</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">PB96</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">SCE1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">SDSE</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">SEN4</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">SMA1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ST94</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">TSR2</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">TXR3</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XBPB</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XODC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XOER</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XTST</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZBWC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZHE8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZHER</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZHO8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZHOB</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZMWD</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZSCP</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZTH7</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZTX8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZUC2</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZZCS</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZZSP</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZZWK</subfield>
+	</datafield>
+	<datafield tag="520" ind1=" " ind2 =" ">
+		<subfield code="a">When a lazy bird hatching an egg wants a vacation, she asks Horton, the elephant, to sit on her egg--which he does through all sorts of hazards until he is rewarded for doing what he said he would.</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="0">
+		<subfield code="a">Elephants</subfield>
+		<subfield code="x">Juvenile fiction.</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="1">
+		<subfield code="a">Fantasy.</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="1">
+		<subfield code="a">Stories in rhyme.</subfield>
+	</datafield>
+	<datafield tag="902" ind1=" " ind2 =" ">
+		<subfield code="a">1-2</subfield>
+	</datafield>
+	<datafield tag="912" ind1=" " ind2 =" ">
+		<subfield code="i">21</subfield>
+	</datafield>
+	<datafield tag="914" ind1=" " ind2 =" ">
+		<subfield code="d">RANDZ</subfield>
+		<subfield code="e">RANDZ</subfield>
+		<subfield code="f">213</subfield>
+		<subfield code="g">BOOK</subfield>
+		<subfield code="h">0.00</subfield>
+		<subfield code="l">JUVENILE FICTION / Animals / Elephants</subfield>
+		<subfield code="m">M</subfield>
+		<subfield code="o">JUV002080</subfield>
+		<subfield code="p">JUV007000</subfield>
+		<subfield code="r">JUVENILE FICTION / Classics</subfield>
+		<subfield code="w">BOOK</subfield>
+	</datafield>
+	<datafield tag="922" ind1=" " ind2 =" ">
+		<subfield code="a">ocm00189245</subfield>
+	</datafield>
+	<datafield tag="927" ind1=" " ind2 =" ">
+		<subfield code="a">AUb10231911</subfield>
+	</datafield>
+	<datafield tag="930" ind1="1" ind2 ="0">
+		<subfield code="a">Horton Hatches the Egg</subfield>
+		<subfield code="c">Horton Hatches the Egg</subfield>
+		<subfield code="d">Horton Hatches the Egg</subfield>
+		<subfield code="f">0</subfield>
+	</datafield>
+	<datafield tag="931" ind1=" " ind2 =" ">
+		<subfield code="a">Accelerated Reader AR</subfield>
+		<subfield code="b">LG</subfield>
+		<subfield code="c">3.1</subfield>
+		<subfield code="d">0.5</subfield>
+		<subfield code="z">5472</subfield>
+	</datafield>
+	<datafield tag="940" ind1=" " ind2 =" ">
+		<subfield code="a">Seuss, Dr.</subfield>
+		<subfield code="b">Seuss, Dr.</subfield>
+	</datafield>
+	<datafield tag="941" ind1=" " ind2 =" ">
+		<subfield code="a">0394900774</subfield>
+	</datafield>
+	<datafield tag="942" ind1=" " ind2 =" ">
+		<subfield code="a">15.99</subfield>
+		<subfield code="d">USD</subfield>
+	</datafield>
+	<datafield tag="943" ind1=" " ind2 =" ">
+		<subfield code="a">LIB</subfield>
+		<subfield code="b">A</subfield>
+		<subfield code="c">JF</subfield>
+		<subfield code="d">JUV</subfield>
+		<subfield code="e">ENG</subfield>
+	</datafield>
+	<datafield tag="947" ind1=" " ind2 =" ">
+		<subfield code="a">BTB</subfield>
+		<subfield code="b">117743</subfield>
+		<subfield code="z">BNT</subfield>
+	</datafield>
+	<datafield tag="948" ind1=" " ind2 =" ">
+		<subfield code="c">1940/09/01</subfield>
+	</datafield>
+	<datafield tag="949" ind1=" " ind2 =" ">
+		<subfield code="a">11.25</subfield>
+		<subfield code="b">8.25</subfield>
+		<subfield code="c">0.50</subfield>
+		<subfield code="d">IN</subfield>
+		<subfield code="e">LB</subfield>
+		<subfield code="f">1.05</subfield>
+		<subfield code="g">1.00</subfield>
+		<subfield code="i">1981/12/23</subfield>
+		<subfield code="j">2008/03/23</subfield>
+	</datafield>
+	<datafield tag="953" ind1=" " ind2 =" ">
+		<subfield code="a">Random House Childrens Books</subfield>
+		<subfield code="b">C/O Random House Inc</subfield>
+		<subfield code="c">400 Hahn rd</subfield>
+		<subfield code="f">Westminster</subfield>
+		<subfield code="g">MD</subfield>
+		<subfield code="h">USA</subfield>
+		<subfield code="i">21157</subfield>
+		<subfield code="l">Random House Childrens Books</subfield>
+	</datafield>
+	<datafield tag="955" ind1=" " ind2 =" ">
+		<subfield code="a">Library</subfield>
+		<subfield code="c">Primary</subfield>
+	</datafield>
+</record>
+<record>
+	<leader>03178cam  2200949 a 4500</leader>
+	<controlfield tag="001">BK0000951307</controlfield>
+	<controlfield tag="003">DLC</controlfield>
+	<controlfield tag="005">20060725202037.0</controlfield>
+	<controlfield tag="008">850304t19851984nyu           000 0 eng  </controlfield>
+	<datafield tag="010" ind1=" " ind2 =" ">
+		<subfield code="a">85004001</subfield>
+	</datafield>
+	<datafield tag="020" ind1=" " ind2 =" ">
+		<subfield code="a">0812036034 : PAP</subfield>
+		<subfield code="c">$6.95</subfield>
+	</datafield>
+	<datafield tag="037" ind1=" " ind2 =" ">
+		<subfield code="b">Barrons Educational Series Inc, 250 Wireless Blvd, Hauppauge, NY, USA, 11788, (631)4343311</subfield>
+		<subfield code="n">SAN 115-2033</subfield>
+	</datafield>
+	<datafield tag="040" ind1=" " ind2 =" ">
+		<subfield code="a">DLC</subfield>
+		<subfield code="c">DLC</subfield>
+		<subfield code="d">DLC</subfield>
+	</datafield>
+	<datafield tag="050" ind1="0" ind2 ="0">
+		<subfield code="a">PR2833</subfield>
+		<subfield code="b">.A25 1985</subfield>
+	</datafield>
+	<datafield tag="082" ind1="0" ind2 ="0">
+		<subfield code="a">822.3/3</subfield>
+		<subfield code="2">19</subfield>
+	</datafield>
+	<datafield tag="092" ind1=" " ind2 =" ">
+		<subfield code="a">822.3300</subfield>
+	</datafield>
+	<datafield tag="100" ind1="1" ind2 =" ">
+		<subfield code="a">Shakespeare, William,</subfield>
+		<subfield code="d">1564-1616.</subfield>
+	</datafield>
+	<datafield tag="245" ind1="1" ind2 ="4">
+		<subfield code="a">The tempest :</subfield>
+		<subfield code="b">modern English version side-by-side with full original text /</subfield>
+		<subfield code="c">edited and rendered into modern English by Alan Durband.</subfield>
+	</datafield>
+	<datafield tag="260" ind1=" " ind2 =" ">
+		<subfield code="a">Woodbury, N.Y. :</subfield>
+		<subfield code="b">Barron's,</subfield>
+		<subfield code="c">1985, c1984.</subfield>
+	</datafield>
+	<datafield tag="300" ind1=" " ind2 =" ">
+		<subfield code="a">220 p. ;</subfield>
+		<subfield code="c">19 cm.</subfield>
+	</datafield>
+	<datafield tag="490" ind1="1" ind2 =" ">
+		<subfield code="a">Shakespeare made easy</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AAAW</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BREN</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CTBH</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">EGPL</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ML01</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">OBBA</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">PBGA</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VBA4</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VBA5</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VBA6</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VBA7</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VBA8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VBB8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VBC7</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VBC8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VBD8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XOER</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XRC4</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZC96</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZCM8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZCN5</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZHO8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZLTN</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZMWD</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZSN9</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZTH7</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZZSP</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZZW7</subfield>
+	</datafield>
+	<datafield tag="520" ind1=" " ind2 =" ">
+		<subfield code="a">Presents the original text of Shakespeare's play side by side with a modern version, discusses the author and the theater of his time, and provides quizzes and other study activities.</subfield>
+	</datafield>
+	<datafield tag="600" ind1="1" ind2 ="0">
+		<subfield code="a">Shakespeare, William,</subfield>
+		<subfield code="d">1564-1616</subfield>
+		<subfield code="x">Outlines, syllabi, etc.</subfield>
+	</datafield>
+	<datafield tag="600" ind1="1" ind2 ="1">
+		<subfield code="a">Shakespeare, William,</subfield>
+		<subfield code="d">1564-1616.</subfield>
+		<subfield code="t">Tempest.</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="0">
+		<subfield code="a">Fathers and daughters</subfield>
+		<subfield code="v">Drama.</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="0">
+		<subfield code="a">Political refugees</subfield>
+		<subfield code="v">Drama.</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="0">
+		<subfield code="a">Shipwreck victims</subfield>
+		<subfield code="v">Drama.</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="0">
+		<subfield code="a">Magicians</subfield>
+		<subfield code="v">Drama.</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="0">
+		<subfield code="a">Islands</subfield>
+		<subfield code="v">Drama.</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="0">
+		<subfield code="a">Spirits</subfield>
+		<subfield code="v">Drama.</subfield>
+	</datafield>
+	<datafield tag="655" ind1=" " ind2 ="7">
+		<subfield code="a">Tragicomedy.</subfield>
+		<subfield code="2">lcsh</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="1">
+		<subfield code="a">Plays.</subfield>
+	</datafield>
+	<datafield tag="600" ind1="1" ind2 ="1">
+		<subfield code="a">Shakespeare, William,</subfield>
+		<subfield code="d">1564-1616</subfield>
+		<subfield code="x">Criticism and interpretation.</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="1">
+		<subfield code="a">English literature</subfield>
+		<subfield code="x">History and criticism.</subfield>
+	</datafield>
+	<datafield tag="700" ind1="1" ind2 =" ">
+		<subfield code="a">Shakespeare, William,</subfield>
+		<subfield code="d">1564-1616.</subfield>
+		<subfield code="t">Tempest.</subfield>
+	</datafield>
+	<datafield tag="700" ind1="1" ind2 =" ">
+		<subfield code="a">Durband, Alan.</subfield>
+	</datafield>
+	<datafield tag="800" ind1="1" ind2 =" ">
+		<subfield code="a">Shakespeare, William,</subfield>
+		<subfield code="d">1564-1616.</subfield>
+		<subfield code="t">Shakespeare made easy.</subfield>
+	</datafield>
+	<datafield tag="856" ind1="4" ind2 ="2">
+		<subfield code="3">Publisher description</subfield>
+	</datafield>
+	<datafield tag="856" ind1="4" ind2 ="2">
+		<subfield code="u">http://www.loc.gov/catdir/enhancements/fy0630/85004001-d.html</subfield>
+	</datafield>
+	<datafield tag="907" ind1=" " ind2 =" ">
+		<subfield code="a">0000000000</subfield>
+	</datafield>
+	<datafield tag="914" ind1=" " ind2 =" ">
+		<subfield code="d">BARRN</subfield>
+		<subfield code="e">BARRN</subfield>
+		<subfield code="g">BOOK</subfield>
+		<subfield code="h">0.00</subfield>
+		<subfield code="m">M</subfield>
+		<subfield code="w">BOOK</subfield>
+	</datafield>
+	<datafield tag="922" ind1=" " ind2 =" ">
+		<subfield code="a">ocm11840391</subfield>
+	</datafield>
+	<datafield tag="927" ind1=" " ind2 =" ">
+		<subfield code="a">AUb10214996</subfield>
+	</datafield>
+	<datafield tag="930" ind1="1" ind2 ="4">
+		<subfield code="a">The Tempest</subfield>
+		<subfield code="c">The Tempest</subfield>
+		<subfield code="d">Tempest</subfield>
+		<subfield code="e">The</subfield>
+		<subfield code="f">4</subfield>
+	</datafield>
+	<datafield tag="933" ind1=" " ind2 =" ">
+		<subfield code="a">Shakespeare Made Easy : Modern English Version Side-By-Side With Full Original Text</subfield>
+	</datafield>
+	<datafield tag="940" ind1=" " ind2 =" ">
+		<subfield code="a">Shakespeare, William/ Durband, Alan</subfield>
+		<subfield code="b">Shakespeare, William</subfield>
+		<subfield code="b">Durband, Alan</subfield>
+	</datafield>
+	<datafield tag="941" ind1=" " ind2 =" ">
+		<subfield code="a">0812036034</subfield>
+	</datafield>
+	<datafield tag="942" ind1=" " ind2 =" ">
+		<subfield code="a">6.95</subfield>
+		<subfield code="d">USD</subfield>
+	</datafield>
+	<datafield tag="943" ind1=" " ind2 =" ">
+		<subfield code="a">PAP</subfield>
+		<subfield code="b">A</subfield>
+		<subfield code="c">NF</subfield>
+		<subfield code="d">GEN</subfield>
+		<subfield code="e">ENG</subfield>
+	</datafield>
+	<datafield tag="947" ind1=" " ind2 =" ">
+		<subfield code="a">BTB</subfield>
+		<subfield code="b">302802</subfield>
+		<subfield code="z">BNT</subfield>
+	</datafield>
+	<datafield tag="948" ind1=" " ind2 =" ">
+		<subfield code="c">1985/07/01</subfield>
+	</datafield>
+	<datafield tag="949" ind1=" " ind2 =" ">
+		<subfield code="a">7.25</subfield>
+		<subfield code="b">5.50</subfield>
+		<subfield code="c">0.50</subfield>
+		<subfield code="d">IN</subfield>
+		<subfield code="e">LB</subfield>
+		<subfield code="f">0.45</subfield>
+		<subfield code="g">0.45</subfield>
+		<subfield code="i">1985/02/13</subfield>
+		<subfield code="j">2008/03/25</subfield>
+	</datafield>
+	<datafield tag="953" ind1=" " ind2 =" ">
+		<subfield code="a">Barrons Educational Series Inc</subfield>
+		<subfield code="b">250 Wireless Blvd</subfield>
+		<subfield code="f">Hauppauge</subfield>
+		<subfield code="g">NY</subfield>
+		<subfield code="h">USA</subfield>
+		<subfield code="i">11788</subfield>
+		<subfield code="l">Barrons Educational Series Inc</subfield>
+	</datafield>
+	<datafield tag="955" ind1=" " ind2 =" ">
+		<subfield code="a">Paperback</subfield>
+		<subfield code="c">Primary</subfield>
+	</datafield>
+</record>
+<record>
+	<leader>04490cam  2201933 i 4500</leader>
+	<controlfield tag="001">BK0000984575</controlfield>
+	<controlfield tag="003">AU</controlfield>
+	<controlfield tag="005">20000921082016.0</controlfield>
+	<controlfield tag="008">750930s1975    nyu    j      000 1 eng  </controlfield>
+	<datafield tag="010" ind1=" " ind2 =" ">
+		<subfield code="a">75033306</subfield>
+	</datafield>
+	<datafield tag="020" ind1=" " ind2 =" ">
+		<subfield code="a">0374480095 : PAP</subfield>
+		<subfield code="c">$5.95</subfield>
+	</datafield>
+	<datafield tag="037" ind1=" " ind2 =" ">
+		<subfield code="b">Farrar Straus &amp; Giroux, C/O Mps 16365 James Madison Hwy, Gordonsville, VA, USA, 22942, (540)6727600</subfield>
+		<subfield code="n">SAN 631-5011</subfield>
+	</datafield>
+	<datafield tag="040" ind1=" " ind2 =" ">
+		<subfield code="a">DLC</subfield>
+		<subfield code="c">DLC</subfield>
+		<subfield code="d">DLC</subfield>
+	</datafield>
+	<datafield tag="050" ind1="0" ind2 ="0">
+		<subfield code="a">PZ7.B1135</subfield>
+		<subfield code="b">Tu</subfield>
+	</datafield>
+	<datafield tag="082" ind1="0" ind2 ="0">
+		<subfield code="a">[Fic]</subfield>
+	</datafield>
+	<datafield tag="092" ind1=" " ind2 =" ">
+		<subfield code="a">FIC</subfield>
+	</datafield>
+	<datafield tag="100" ind1="1" ind2 =" ">
+		<subfield code="a">Babbitt, Natalie.</subfield>
+	</datafield>
+	<datafield tag="245" ind1="1" ind2 ="0">
+		<subfield code="a">Tuck everlasting /</subfield>
+		<subfield code="c">Natalie Babbitt.</subfield>
+	</datafield>
+	<datafield tag="250" ind1=" " ind2 =" ">
+		<subfield code="a">1st ed.</subfield>
+	</datafield>
+	<datafield tag="260" ind1=" " ind2 =" ">
+		<subfield code="a">New York :</subfield>
+		<subfield code="b">Farrar, Straus, Giroux,</subfield>
+		<subfield code="c">1975.</subfield>
+	</datafield>
+	<datafield tag="300" ind1=" " ind2 =" ">
+		<subfield code="a">139 p. ;</subfield>
+		<subfield code="c">22 cm.</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AAAA</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AACC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AACL</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AACO</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AAEI</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ACFL</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AOAK</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ARMB</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BBC4</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BBC5</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BBC6</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BBC7</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BFGB</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BG41</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BIB9</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BKB4</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BKL3</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BLS1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BREN</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT0J</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT0K</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT1J</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT2J</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT3J</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT4J</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT5J</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT7J</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT9J</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT9K</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BTJ0</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BTJ8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BTJ9</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BTPB</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BTR1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CARI</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CBF7</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CC16</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CC17</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CC18</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CC19</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CCS7</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CLA2</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CMIN</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">COE1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">COM1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CTBD</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CTBE</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CTBG</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CTBH</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">DCSE</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ESPC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">FFC3</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">FFC4</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">GBFG</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">JCL</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">JHPC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">LGRL</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">LVPL</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">MCF2</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ML01</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">NC75</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">NCA4</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">NJ5B</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">NJBN</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">NMCN</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">NO60</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">NYTP</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">PBSB</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">PW93</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">RAH2</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">RCSM</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">RDC2</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">RDCT</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">SCH9</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">STFY</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">STP1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">TXR3</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VBA4</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VBA5</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VBA6</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VBA7</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VBA8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VBC3</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VBC5</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VBE5</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VBF3</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VBF4</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VBF5</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VBF6</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VBF7</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VCF0</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VCS1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VCW0</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VCW1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VMF0</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VMS0</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VMU0</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VNF0</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VNS0</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VPF0</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VPF1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VPF2</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VPU2</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">X2K1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">X2K2</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XBJF</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XODC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XOER</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZBWC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZHO8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZSN1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZSN2</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZSN3</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZSN9</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZTH7</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZZ41</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZZCS</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZZCT</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZZSP</subfield>
+	</datafield>
+	<datafield tag="520" ind1=" " ind2 =" ">
+		<subfield code="a">The Tuck family is confronted with an agonizing situation when they discover that a ten-year-old girl and a malicious stranger now share their secret about a spring whose water prevents one from ever growing any older.</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="1">
+		<subfield code="a">Immortality</subfield>
+		<subfield code="v">Fiction.</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="1">
+		<subfield code="a">Aging</subfield>
+		<subfield code="v">Fiction.</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="1">
+		<subfield code="a">Secrets</subfield>
+		<subfield code="v">Fiction.</subfield>
+	</datafield>
+	<datafield tag="902" ind1=" " ind2 =" ">
+		<subfield code="a">4-6</subfield>
+	</datafield>
+	<datafield tag="904" ind1=" " ind2 =" ">
+		<subfield code="a">700</subfield>
+	</datafield>
+	<datafield tag="912" ind1=" " ind2 =" ">
+		<subfield code="i">24</subfield>
+	</datafield>
+	<datafield tag="914" ind1=" " ind2 =" ">
+		<subfield code="a">OP</subfield>
+		<subfield code="d">FARRJ</subfield>
+		<subfield code="e">FARRJ</subfield>
+		<subfield code="f">216</subfield>
+		<subfield code="g">BOOK</subfield>
+		<subfield code="h">0.00</subfield>
+		<subfield code="l">JUVENILE FICTION / Science Fiction, Fantasy, Magic</subfield>
+		<subfield code="m">M</subfield>
+		<subfield code="o">JUV037000</subfield>
+		<subfield code="w">BOOK</subfield>
+	</datafield>
+	<datafield tag="922" ind1=" " ind2 =" ">
+		<subfield code="a">ocm01735507</subfield>
+	</datafield>
+	<datafield tag="927" ind1=" " ind2 =" ">
+		<subfield code="a">AUb10255711</subfield>
+	</datafield>
+	<datafield tag="930" ind1="1" ind2 ="0">
+		<subfield code="a">Tuck Everlasting</subfield>
+		<subfield code="c">Tuck Everlasting</subfield>
+		<subfield code="d">Tuck Everlasting</subfield>
+		<subfield code="f">0</subfield>
+	</datafield>
+	<datafield tag="931" ind1=" " ind2 =" ">
+		<subfield code="a">Accelerated Reader AR</subfield>
+		<subfield code="b">MG</subfield>
+		<subfield code="c">5.0</subfield>
+		<subfield code="d">4.0</subfield>
+		<subfield code="z">247</subfield>
+	</datafield>
+	<datafield tag="932" ind1=" " ind2 =" ">
+		<subfield code="a">Reprint</subfield>
+	</datafield>
+	<datafield tag="940" ind1=" " ind2 =" ">
+		<subfield code="a">Babbitt, Natalie</subfield>
+		<subfield code="b">Babbitt, Natalie</subfield>
+	</datafield>
+	<datafield tag="941" ind1=" " ind2 =" ">
+		<subfield code="a">0374480095</subfield>
+	</datafield>
+	<datafield tag="942" ind1=" " ind2 =" ">
+		<subfield code="a">5.95</subfield>
+		<subfield code="d">USD</subfield>
+	</datafield>
+	<datafield tag="943" ind1=" " ind2 =" ">
+		<subfield code="a">PAP</subfield>
+		<subfield code="b">A</subfield>
+		<subfield code="c">JF</subfield>
+		<subfield code="d">JUV</subfield>
+		<subfield code="e">ENG</subfield>
+	</datafield>
+	<datafield tag="947" ind1=" " ind2 =" ">
+		<subfield code="a">BTB</subfield>
+		<subfield code="b">324502</subfield>
+		<subfield code="z">BNT</subfield>
+	</datafield>
+	<datafield tag="948" ind1=" " ind2 =" ">
+		<subfield code="c">1985/11/01</subfield>
+	</datafield>
+	<datafield tag="949" ind1=" " ind2 =" ">
+		<subfield code="a">7.75</subfield>
+		<subfield code="b">5.00</subfield>
+		<subfield code="c">0.50</subfield>
+		<subfield code="d">IN</subfield>
+		<subfield code="e">LB</subfield>
+		<subfield code="f">0.30</subfield>
+		<subfield code="g">0.30</subfield>
+		<subfield code="i">1985/06/18</subfield>
+		<subfield code="j">2008/03/25</subfield>
+	</datafield>
+	<datafield tag="952" ind1=" " ind2 =" ">
+		<subfield code="a">Winifred's accidental encounter with the unusual Tuck family and their extraordinary secret transforms her life.</subfield>
+		<subfield code="b">ATLAS</subfield>
+	</datafield>
+	<datafield tag="953" ind1=" " ind2 =" ">
+		<subfield code="a">Farrar Straus &amp; Giroux</subfield>
+		<subfield code="b">C/O Mps</subfield>
+		<subfield code="c">16365 James Madison Hwy</subfield>
+		<subfield code="f">Gordonsville</subfield>
+		<subfield code="g">VA</subfield>
+		<subfield code="h">USA</subfield>
+		<subfield code="i">22942</subfield>
+		<subfield code="l">Farrar Straus &amp; Giroux</subfield>
+		<subfield code="m">2007/10/30</subfield>
+	</datafield>
+	<datafield tag="954" ind1=" " ind2 =" ">
+		<subfield code="e">0</subfield>
+	</datafield>
+	<datafield tag="955" ind1=" " ind2 =" ">
+		<subfield code="a">Paperback</subfield>
+		<subfield code="c">Primary</subfield>
+		<subfield code="d">Reprint</subfield>
+	</datafield>
+</record>
+<record>
+	<leader>02292cam  2200721 a 4500</leader>
+	<controlfield tag="001">BK0001169809</controlfield>
+	<controlfield tag="003">AU</controlfield>
+	<controlfield tag="005">19991024072047.0</controlfield>
+	<controlfield tag="008">990716r1985    nyua   j      000 1 eng  </controlfield>
+	<datafield tag="010" ind1=" " ind2 =" ">
+		<subfield code="a">84021854</subfield>
+	</datafield>
+	<datafield tag="020" ind1=" " ind2 =" ">
+		<subfield code="a">0916291103 : PAP</subfield>
+		<subfield code="c">$7.95</subfield>
+	</datafield>
+	<datafield tag="037" ind1=" " ind2 =" ">
+		<subfield code="b">Kane Miller Book Pub, Po Box 8515, LA Jolla, CA, USA, 92038, (858)4560540</subfield>
+		<subfield code="n">SAN 295-8945</subfield>
+	</datafield>
+	<datafield tag="040" ind1=" " ind2 =" ">
+		<subfield code="a">DLC</subfield>
+		<subfield code="c">DLC</subfield>
+		<subfield code="d">DLC</subfield>
+	</datafield>
+	<datafield tag="050" ind1="0" ind2 ="0">
+		<subfield code="a">PZ8.3.T695</subfield>
+		<subfield code="b">On 1985</subfield>
+	</datafield>
+	<datafield tag="082" ind1="0" ind2 ="0">
+		<subfield code="a">[E]</subfield>
+		<subfield code="2">19</subfield>
+	</datafield>
+	<datafield tag="092" ind1=" " ind2 =" ">
+		<subfield code="a">E</subfield>
+	</datafield>
+	<datafield tag="100" ind1="1" ind2 =" ">
+		<subfield code="a">Trinca, Rod.</subfield>
+	</datafield>
+	<datafield tag="245" ind1="1" ind2 ="0">
+		<subfield code="a">One woolly wombat /</subfield>
+		<subfield code="c">written by Rod Trinca and Kerry Argent ; illustrated by Kerry Argent.</subfield>
+	</datafield>
+	<datafield tag="250" ind1=" " ind2 =" ">
+		<subfield code="a">1st American ed.</subfield>
+	</datafield>
+	<datafield tag="260" ind1=" " ind2 =" ">
+		<subfield code="a">Brooklyn, N.Y. :</subfield>
+		<subfield code="b">Kane/Miller Book Publishers,</subfield>
+		<subfield code="c">1985, c1982.</subfield>
+	</datafield>
+	<datafield tag="300" ind1=" " ind2 =" ">
+		<subfield code="a">[33] p. :</subfield>
+		<subfield code="b">col. ill. ;</subfield>
+		<subfield code="c">29 cm.</subfield>
+	</datafield>
+	<datafield tag="500" ind1=" " ind2 =" ">
+		<subfield code="a">&quot;A Cranky Nell book.&quot;</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AACO</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AZ4</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">AZ5</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BBC5</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BBC6</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BBC7</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BGC2</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BYCC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">PC27</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">RDC2</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">RDCT</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">SCH9</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">TSR2</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XODC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZHE8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZHER</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZZCT</subfield>
+	</datafield>
+	<datafield tag="520" ind1=" " ind2 =" ">
+		<subfield code="a">Humorous illustrations depict fourteen Australian animals, introduced in rhyme, along with the numbers from one to fourteen.</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="0">
+		<subfield code="a">Children's stories, Australian.</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="1">
+		<subfield code="a">Zoology</subfield>
+		<subfield code="z">Australia</subfield>
+		<subfield code="x">Fiction.</subfield>
+	</datafield>
+	<datafield tag="651" ind1=" " ind2 ="1">
+		<subfield code="a">Australia</subfield>
+		<subfield code="x">Fiction.</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="1">
+		<subfield code="a">Counting.</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="1">
+		<subfield code="a">Stories in rhyme.</subfield>
+	</datafield>
+	<datafield tag="700" ind1="1" ind2 =" ">
+		<subfield code="a">Argent, Kerry,</subfield>
+		<subfield code="d">1960-</subfield>
+		<subfield code="e">ill.</subfield>
+	</datafield>
+	<datafield tag="902" ind1=" " ind2 =" ">
+		<subfield code="a">Preschool</subfield>
+	</datafield>
+	<datafield tag="904" ind1=" " ind2 =" ">
+		<subfield code="a">NP</subfield>
+	</datafield>
+	<datafield tag="912" ind1=" " ind2 =" ">
+		<subfield code="i">18</subfield>
+	</datafield>
+	<datafield tag="914" ind1=" " ind2 =" ">
+		<subfield code="a">OS</subfield>
+		<subfield code="d">KANMI</subfield>
+		<subfield code="e">KANMI</subfield>
+		<subfield code="f">210</subfield>
+		<subfield code="g">BOOK</subfield>
+		<subfield code="h">0.00</subfield>
+		<subfield code="l">JUVENILE FICTION / Humorous Stories</subfield>
+		<subfield code="m">M</subfield>
+		<subfield code="o">JUV019000</subfield>
+		<subfield code="w">BOOK</subfield>
+	</datafield>
+	<datafield tag="922" ind1=" " ind2 =" ">
+		<subfield code="a">ocm11235870</subfield>
+	</datafield>
+	<datafield tag="927" ind1=" " ind2 =" ">
+		<subfield code="a">AUb10181270</subfield>
+	</datafield>
+	<datafield tag="930" ind1="1" ind2 ="0">
+		<subfield code="a">One Woolly Wombat</subfield>
+		<subfield code="c">One Woolly Wombat</subfield>
+		<subfield code="d">1 Woolly Wombat</subfield>
+		<subfield code="f">0</subfield>
+	</datafield>
+	<datafield tag="932" ind1=" " ind2 =" ">
+		<subfield code="a">Reprint</subfield>
+	</datafield>
+	<datafield tag="940" ind1=" " ind2 =" ">
+		<subfield code="a">Trinca, Rod/ Argent, Kerry/ Argent, Kerry (ILT)</subfield>
+		<subfield code="b">Trinca, Rod</subfield>
+		<subfield code="b">Argent, Kerry</subfield>
+		<subfield code="b">Argent, Kerry (ILT)</subfield>
+	</datafield>
+	<datafield tag="941" ind1=" " ind2 =" ">
+		<subfield code="a">0916291103</subfield>
+	</datafield>
+	<datafield tag="942" ind1=" " ind2 =" ">
+		<subfield code="a">7.95</subfield>
+		<subfield code="d">USD</subfield>
+	</datafield>
+	<datafield tag="943" ind1=" " ind2 =" ">
+		<subfield code="a">PAP</subfield>
+		<subfield code="b">A</subfield>
+		<subfield code="c">JF</subfield>
+		<subfield code="d">JUV</subfield>
+		<subfield code="e">ENG</subfield>
+	</datafield>
+	<datafield tag="947" ind1=" " ind2 =" ">
+		<subfield code="a">BTB</subfield>
+		<subfield code="b">451848</subfield>
+		<subfield code="z">BNT</subfield>
+	</datafield>
+	<datafield tag="948" ind1=" " ind2 =" ">
+		<subfield code="c">1987/04/01</subfield>
+	</datafield>
+	<datafield tag="949" ind1=" " ind2 =" ">
+		<subfield code="a">11.25</subfield>
+		<subfield code="b">8.50</subfield>
+		<subfield code="c">0.25</subfield>
+		<subfield code="d">IN</subfield>
+		<subfield code="e">LB</subfield>
+		<subfield code="f">0.35</subfield>
+		<subfield code="g">0.35</subfield>
+		<subfield code="i">1987/02/02</subfield>
+		<subfield code="j">2008/03/25</subfield>
+	</datafield>
+	<datafield tag="953" ind1=" " ind2 =" ">
+		<subfield code="a">Kane Miller Book Pub</subfield>
+		<subfield code="b">Po Box 8515</subfield>
+		<subfield code="f">LA Jolla</subfield>
+		<subfield code="g">CA</subfield>
+		<subfield code="h">USA</subfield>
+		<subfield code="i">92038</subfield>
+		<subfield code="l">Kane Miller Book Pub</subfield>
+	</datafield>
+	<datafield tag="955" ind1=" " ind2 =" ">
+		<subfield code="a">Paperback</subfield>
+		<subfield code="c">Primary</subfield>
+		<subfield code="d">Reprint</subfield>
+	</datafield>
+</record>
+<record>
+	<leader>03855cam  2201249 a 4500</leader>
+	<controlfield tag="001">BK0001236172</controlfield>
+	<controlfield tag="003">DLC</controlfield>
+	<controlfield tag="005">20041130121848.0</controlfield>
+	<controlfield tag="008">870619s1988    nyu      b    000 1 eng  </controlfield>
+	<datafield tag="010" ind1=" " ind2 =" ">
+		<subfield code="a">87018535</subfield>
+	</datafield>
+	<datafield tag="020" ind1=" " ind2 =" ">
+		<subfield code="a">0393956539 : PAP</subfield>
+		<subfield code="c">$11.40</subfield>
+	</datafield>
+	<datafield tag="037" ind1=" " ind2 =" ">
+		<subfield code="b">W W Norton &amp; Co Inc, 800 Keystone Industrial Park, Scranton, PA, USA, 18512</subfield>
+		<subfield code="n">SAN 202-5795</subfield>
+	</datafield>
+	<datafield tag="040" ind1=" " ind2 =" ">
+		<subfield code="a">DLC</subfield>
+		<subfield code="c">DLC</subfield>
+		<subfield code="d">DLC</subfield>
+		<subfield code="d">OCoLC</subfield>
+	</datafield>
+	<datafield tag="050" ind1="0" ind2 ="0">
+		<subfield code="a">PS1868.A2</subfield>
+		<subfield code="b">G76 1988</subfield>
+	</datafield>
+	<datafield tag="082" ind1="0" ind2 ="0">
+		<subfield code="a">813/.3</subfield>
+		<subfield code="2">19</subfield>
+	</datafield>
+	<datafield tag="092" ind1=" " ind2 =" ">
+		<subfield code="a">813.3000</subfield>
+	</datafield>
+	<datafield tag="100" ind1="1" ind2 =" ">
+		<subfield code="a">Hawthorne, Nathaniel,</subfield>
+		<subfield code="d">1804-1864.</subfield>
+	</datafield>
+	<datafield tag="245" ind1="1" ind2 ="4">
+		<subfield code="a">The scarlet letter :</subfield>
+		<subfield code="b">an authoritative text, essays in criticism and scholarship /</subfield>
+		<subfield code="c">[Nathaniel Hawthorne] ; edited by Seymour Gross ... [et al.].</subfield>
+	</datafield>
+	<datafield tag="250" ind1=" " ind2 =" ">
+		<subfield code="a">3rd ed.</subfield>
+	</datafield>
+	<datafield tag="260" ind1=" " ind2 =" ">
+		<subfield code="a">New York :</subfield>
+		<subfield code="b">Norton,</subfield>
+		<subfield code="c">1988.</subfield>
+	</datafield>
+	<datafield tag="300" ind1=" " ind2 =" ">
+		<subfield code="a">vii, 443 p. ;</subfield>
+		<subfield code="c">21 cm.</subfield>
+	</datafield>
+	<datafield tag="490" ind1="0" ind2 =" ">
+		<subfield code="a">A Norton critical edition.</subfield>
+	</datafield>
+	<datafield tag="504" ind1=" " ind2 =" ">
+		<subfield code="a">Bibliography: p. [435]-440.</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT0K</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT1K</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT3K</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BT5K</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CARY</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">COH1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CTBE</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CTBH</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">CTPF</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">FC13</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">JC20</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">JC31</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">JCL</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">JCOP</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">JTMP</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">PW93</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">SH14</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">STP1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VBA4</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VBA5</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VBA6</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VBA7</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VBC5</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VBF3</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VBF4</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VBF5</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VCF0</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VCS1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VCW0</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VCW1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VNF0</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VNW0</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VPF0</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VPF1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VPF2</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VPS1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VPU0</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VPU2</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VPW0</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VPW1</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">VPW2</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XAA5</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">XODC</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZC96</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZCM8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZCN5</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZHO8</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZLTN</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZSCS</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZTH7</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">ZUC1</subfield>
+	</datafield>
+	<datafield tag="520" ind1=" " ind2 =" ">
+		<subfield code="a">Critical essays accompany the story of Puritan life and the workings of the conscience on the human heart</subfield>
+	</datafield>
+	<datafield tag="651" ind1=" " ind2 ="0">
+		<subfield code="a">Boston (Mass.)</subfield>
+		<subfield code="x">History</subfield>
+		<subfield code="y">Colonial period, ca. 1600-1775</subfield>
+		<subfield code="v">Fiction.</subfield>
+	</datafield>
+	<datafield tag="600" ind1="1" ind2 ="0">
+		<subfield code="a">Hawthorne, Nathaniel,</subfield>
+		<subfield code="d">1804-1864.</subfield>
+		<subfield code="t">Scarlet letter.</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="0">
+		<subfield code="a">Triangles (Interpersonal relations)</subfield>
+		<subfield code="v">Fiction.</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="0">
+		<subfield code="a">Illegitimate children</subfield>
+		<subfield code="v">Fiction.</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="0">
+		<subfield code="a">Women immigrants</subfield>
+		<subfield code="v">Fiction.</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="0">
+		<subfield code="a">Married women</subfield>
+		<subfield code="v">Fiction.</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="0">
+		<subfield code="a">Puritans</subfield>
+		<subfield code="v">Fiction.</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="0">
+		<subfield code="a">Adultery</subfield>
+		<subfield code="v">Fiction.</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="0">
+		<subfield code="a">Revenge</subfield>
+		<subfield code="v">Fiction.</subfield>
+	</datafield>
+	<datafield tag="650" ind1=" " ind2 ="0">
+		<subfield code="a">Clergy</subfield>
+		<subfield code="v">Fiction.</subfield>
+	</datafield>
+	<datafield tag="655" ind1=" " ind2 ="7">
+		<subfield code="a">Psychological fiction.</subfield>
+		<subfield code="2">lcsh</subfield>
+	</datafield>
+	<datafield tag="655" ind1=" " ind2 ="7">
+		<subfield code="a">Historical fiction.</subfield>
+		<subfield code="2">gsafd</subfield>
+	</datafield>
+	<datafield tag="700" ind1="1" ind2 =" ">
+		<subfield code="a">Gross, Seymour Lee,</subfield>
+		<subfield code="d">1926-</subfield>
+	</datafield>
+	<datafield tag="907" ind1=" " ind2 =" ">
+		<subfield code="a">0006807515</subfield>
+	</datafield>
+	<datafield tag="908" ind1=" " ind2 =" ">
+		<subfield code="a">D</subfield>
+	</datafield>
+	<datafield tag="911" ind1=" " ind2 =" ">
+		<subfield code="a">A01100000</subfield>
+	</datafield>
+	<datafield tag="912" ind1=" " ind2 =" ">
+		<subfield code="a">01</subfield>
+		<subfield code="b">01</subfield>
+		<subfield code="c">01</subfield>
+		<subfield code="d">01</subfield>
+		<subfield code="g">02</subfield>
+		<subfield code="i">01</subfield>
+	</datafield>
+	<datafield tag="914" ind1=" " ind2 =" ">
+		<subfield code="a">PS</subfield>
+		<subfield code="d">NORTO</subfield>
+		<subfield code="e">NRTWW</subfield>
+		<subfield code="f">500</subfield>
+		<subfield code="g">BOOK</subfield>
+		<subfield code="h">0.00</subfield>
+		<subfield code="m">M</subfield>
+		<subfield code="w">BOOK</subfield>
+		<subfield code="z">443</subfield>
+	</datafield>
+	<datafield tag="922" ind1=" " ind2 =" ">
+		<subfield code="a">ocm16131586</subfield>
+	</datafield>
+	<datafield tag="927" ind1=" " ind2 =" ">
+		<subfield code="a">AUb10419069</subfield>
+	</datafield>
+	<datafield tag="930" ind1="1" ind2 ="0">
+		<subfield code="a">Scarlet Letter</subfield>
+		<subfield code="b">An Authoritative Text Essays in Criticism and Scholarship</subfield>
+		<subfield code="c">Scarlet Letter : An Authoritative Text Essays in Criticism and Scholarship</subfield>
+		<subfield code="d">Scarlet Letter an Authoritative Text ess</subfield>
+		<subfield code="f">0</subfield>
+	</datafield>
+	<datafield tag="933" ind1=" " ind2 =" ">
+		<subfield code="a">NORTON CRITICAL EDITIONS</subfield>
+	</datafield>
+	<datafield tag="940" ind1=" " ind2 =" ">
+		<subfield code="a">Hawthorne, Nathaniel/ Gross, Seymour Lee (EDT)/ Bradley, Sculley (EDT)/ Beatty, Richmond Croom (EDT)/ Long, E. Hudson (EDT)/ Gross, Seymour Lee</subfield>
+		<subfield code="b">Hawthorne, Nathaniel</subfield>
+		<subfield code="b">Gross, Seymour Lee (EDT)</subfield>
+		<subfield code="b">Bradley, Sculley (EDT)</subfield>
+		<subfield code="b">Beatty, Richmond Croom (EDT)</subfield>
+		<subfield code="b">Long, E. Hudson (EDT)</subfield>
+		<subfield code="b">Gross, Seymour Lee</subfield>
+	</datafield>
+	<datafield tag="941" ind1=" " ind2 =" ">
+		<subfield code="a">0393956539</subfield>
+	</datafield>
+	<datafield tag="942" ind1=" " ind2 =" ">
+		<subfield code="a">11.40</subfield>
+		<subfield code="d">USD</subfield>
+	</datafield>
+	<datafield tag="943" ind1=" " ind2 =" ">
+		<subfield code="a">PAP</subfield>
+		<subfield code="b">D</subfield>
+		<subfield code="c">FI</subfield>
+		<subfield code="d">TXT</subfield>
+		<subfield code="e">ENG</subfield>
+	</datafield>
+	<datafield tag="947" ind1=" " ind2 =" ">
+		<subfield code="a">BTB</subfield>
+		<subfield code="b">500403</subfield>
+		<subfield code="z">BNT</subfield>
+	</datafield>
+	<datafield tag="948" ind1=" " ind2 =" ">
+		<subfield code="c">1988/06/01</subfield>
+	</datafield>
+	<datafield tag="949" ind1=" " ind2 =" ">
+		<subfield code="a">8.25</subfield>
+		<subfield code="b">5.25</subfield>
+		<subfield code="c">0.75</subfield>
+		<subfield code="d">IN</subfield>
+		<subfield code="e">LB</subfield>
+		<subfield code="f">0.95</subfield>
+		<subfield code="g">0.95</subfield>
+		<subfield code="i">1987/08/04</subfield>
+		<subfield code="j">2008/03/25</subfield>
+	</datafield>
+	<datafield tag="953" ind1=" " ind2 =" ">
+		<subfield code="a">W W Norton &amp; Co Inc</subfield>
+		<subfield code="b">800 Keystone Industrial Park</subfield>
+		<subfield code="f">Scranton</subfield>
+		<subfield code="g">PA</subfield>
+		<subfield code="h">USA</subfield>
+		<subfield code="i">18512</subfield>
+		<subfield code="l">W W Norton &amp; Co Inc</subfield>
+	</datafield>
+	<datafield tag="954" ind1=" " ind2 =" ">
+		<subfield code="c">2005.06.16</subfield>
+		<subfield code="d">OBSOLETE</subfield>
+		<subfield code="e">0</subfield>
+	</datafield>
+	<datafield tag="955" ind1=" " ind2 =" ">
+		<subfield code="a">Paperback</subfield>
+		<subfield code="c">Primary</subfield>
+	</datafield>
+</record>
+<record>
+	<leader>01760pam  2200445 a 4500</leader>
+	<controlfield tag="001">BK0003407493</controlfield>
+	<controlfield tag="003">AU</controlfield>
+	<controlfield tag="005">20021125120644.0</controlfield>
+	<controlfield tag="008">940525r19941992nyu           000 1 eng d</controlfield>
+	<datafield tag="010" ind1=" " ind2 =" ">
+		<subfield code="a">BL 99750904</subfield>
+	</datafield>
+	<datafield tag="020" ind1=" " ind2 =" ">
+		<subfield code="a">0808586165 : PBD</subfield>
+		<subfield code="c">$15.80</subfield>
+	</datafield>
+	<datafield tag="037" ind1=" " ind2 =" ">
+		<subfield code="b">Bt Bound, C/O Tandem Library Group 2101 N Topeka Blvd, Topeka, KS, USA, 66608-2312</subfield>
+		<subfield code="n">SAN 249-2687</subfield>
+	</datafield>
+	<datafield tag="040" ind1=" " ind2 =" ">
+		<subfield code="a">NjSoBT</subfield>
+		<subfield code="b">NjSoBT</subfield>
+		<subfield code="c">NjSoBT</subfield>
+	</datafield>
+	<datafield tag="050" ind1="1" ind2 ="4">
+		<subfield code="a">PS3553.A655</subfield>
+		<subfield code="b">E5 1994</subfield>
+	</datafield>
+	<datafield tag="082" ind1="0" ind2 ="4">
+		<subfield code="a">813/.54</subfield>
+		<subfield code="2">20</subfield>
+	</datafield>
+	<datafield tag="092" ind1=" " ind2 =" ">
+		<subfield code="a">813.5400</subfield>
+	</datafield>
+	<datafield tag="100" ind1="1" ind2 =" ">
+		<subfield code="a">Card, Orson Scott.</subfield>
+	</datafield>
+	<datafield tag="245" ind1="1" ind2 ="0">
+		<subfield code="a">Ender's game /</subfield>
+		<subfield code="c">Orson Scott Card.</subfield>
+	</datafield>
+	<datafield tag="250" ind1=" " ind2 =" ">
+		<subfield code="a">Rev. mass market ed.</subfield>
+	</datafield>
+	<datafield tag="260" ind1=" " ind2 =" ">
+		<subfield code="a">New York :</subfield>
+	<subfield code="b">Tor,</subfield>
+		<subfield code="c">1994, c1992.</subfield>
+	</datafield>
+	<datafield tag="300" ind1=" " ind2 =" ">
+		<subfield code="a">xxvi, 349 p. ;</subfield>
+		<subfield code="c">18 cm.</subfield>
+	</datafield>
+	<datafield tag="500" ind1=" " ind2 =" ">
+		<subfield code="a">&quot;A Tom Doherty Associates book.&quot;</subfield>
+	</datafield>
+	<datafield tag="500" ind1=" " ind2 =" ">
+		<subfield code="a">Reprint. Originally published: 1992.</subfield>
+	</datafield>
+	<datafield tag="510" ind1=" " ind2 =" ">
+		<subfield code="a">BTBD</subfield>
+	</datafield>
+	<datafield tag="520" ind1=" " ind2 =" ">
+		<subfield code="a">An expert at simulated war games, Andrew &quot;Ender&quot; Wiggin believes that he is engaged in one more computer war game when, in truth, he is commanding the last Earth fleet against an alien race seeking Earth's complete destruction</subfield>
+	</datafield>
+	<datafield tag="912" ind1=" " ind2 =" ">
+		<subfield code="j">80</subfield>
+	</datafield>
+	<datafield tag="914" ind1=" " ind2 =" ">
+		<subfield code="a">OS</subfield>
+		<subfield code="d">BTBND</subfield>
+		<subfield code="e">BTBND</subfield>
+		<subfield code="f">720</subfield>
+		<subfield code="g">BOOK</subfield>
+		<subfield code="h">0.00</subfield>
+		<subfield code="l">FICTION / Science Fiction / General</subfield>
+		<subfield code="m">M</subfield>
+		<subfield code="o">FIC028000</subfield>
+		<subfield code="w">ECONO</subfield>
+	</datafield>
+	<datafield tag="922" ind1=" " ind2 =" ">
+		<subfield code="a">ocm54755619</subfield>
+	</datafield>
+	<datafield tag="927" ind1=" " ind2 =" ">
+		<subfield code="a">AUb11763297</subfield>
+	</datafield>
+	<datafield tag="930" ind1="1" ind2 ="0">
+		<subfield code="a">Ender's Game</subfield>
+		<subfield code="c">Ender's Game</subfield>
+		<subfield code="d">Enders Game</subfield>
+		<subfield code="f">0</subfield>
+	</datafield>
+	<datafield tag="931" ind1=" " ind2 =" ">
+		<subfield code="a">Accelerated Reader AR</subfield>
+		<subfield code="b">UG</subfield>
+		<subfield code="c">5.5</subfield>
+		<subfield code="d">16.0</subfield>
+		<subfield code="z">28441</subfield>
+	</datafield>
+	<datafield tag="940" ind1=" " ind2 =" ">
+		<subfield code="a">Card, Orson Scott</subfield>
+		<subfield code="b">Card, Orson Scott</subfield>
+	</datafield>
+	<datafield tag="941" ind1=" " ind2 =" ">
+		<subfield code="a">0808586165</subfield>
+	</datafield>
+	<datafield tag="942" ind1=" " ind2 =" ">
+		<subfield code="a">15.80</subfield>
+		<subfield code="d">USD</subfield>
+	</datafield>
+	<datafield tag="943" ind1=" " ind2 =" ">
+		<subfield code="a">PBD</subfield>
+		<subfield code="b">A</subfield>
+		<subfield code="c">FI</subfield>
+		<subfield code="d">GLD</subfield>
+		<subfield code="e">ENG</subfield>
+	</datafield>
+	<datafield tag="947" ind1=" " ind2 =" ">
+		<subfield code="a">BTB</subfield>
+		<subfield code="b">2724143</subfield>
+		<subfield code="z">BNT</subfield>
+	</datafield>
+	<datafield tag="948" ind1=" " ind2 =" ">
+		<subfield code="c">1999/10/01</subfield>
+	</datafield>
+	<datafield tag="949" ind1=" " ind2 =" ">
+		<subfield code="a">7.00</subfield>
+		<subfield code="b">4.50</subfield>
+		<subfield code="c">1.00</subfield>
+		<subfield code="d">IN</subfield>
+		<subfield code="e">LB</subfield>
+		<subfield code="f">0.50</subfield>
+		<subfield code="g">0.50</subfield>
+		<subfield code="i">1999/11/16</subfield>
+		<subfield code="j">2008/03/25</subfield>
+	</datafield>
+	<datafield tag="953" ind1=" " ind2 =" ">
+		<subfield code="a">Bt Bound</subfield>
+		<subfield code="b">C/O Tandem Library Group</subfield>
+		<subfield code="c">2101 N Topeka Blvd</subfield>
+		<subfield code="f">Topeka</subfield>
+		<subfield code="g">KS</subfield>
+		<subfield code="h">USA</subfield>
+		<subfield code="i">66608-2312</subfield>
+		<subfield code="l">Bt Bound</subfield>
+	</datafield>
+	<datafield tag="955" ind1=" " ind2 =" ">
+		<subfield code="a">Prebind</subfield>
+		<subfield code="c">Primary</subfield>
+	</datafield>
+</record>
+</records>

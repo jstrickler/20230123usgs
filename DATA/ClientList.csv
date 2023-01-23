@@ -1,0 +1,11 @@
+Internet access state,Device Type,Client Name,Client IP address,IP Method,Clients MAC Address,Interface,Tx Rate,Rx Rate,Access time
+Allow Internet access,Google,Chromecast,192.168.1.100,Automatic IP,A4:77:33:25:41:C6,Wired,-,-,-
+Allow Internet access,Roku Inc.,Roku  Inc,192.168.1.104,Static IP,D0:4D:2C:FF:F8:37,Wired,-,-,-
+Allow Internet access,Apple,johnstrcomputer,192.168.1.106,Automatic IP,00:1C:B3:75:90:B5,Wired,-,-,-
+Allow Internet access,Roku Inc.,Roku  Inc,192.168.1.113,Static IP,CC:6D:A0:E2:18:FB,Wired,-,-,-
+Allow Internet access,Apple,MacBook-Pro-8,192.168.1.116,Automatic IP,68:5B:35:99:29:A3,Wired,-,-,-
+Allow Internet access,Roku Inc.,Roku  Inc,192.168.1.123,Static IP,00:0D:4B:4E:F4:DD,Wired,-,-,-
+Allow Internet access,Apple,Johns-iPad,192.168.1.131,Automatic IP,B8:E8:56:6A:D2:63,Wired,-,-,-
+Allow Internet access,Hon Hai,BRW184F32B3125D,192.168.1.139,Automatic IP,18:4F:32:B3:12:5D,Wired,-,-,-
+Allow Internet access,Apple,iPad-10,192.168.1.147,Automatic IP,B8:FF:61:6D:CE:BE,Wired,-,-,-
+Allow Internet access,Hon Hai,DEV6E5E42,192.168.1.103,Automatic IP,0C:84:DC:A4:36:47,2.4 GHz,1,        ,01:16:05

@@ -1,0 +1,51 @@
+Airport,Code,2001 Rank,2001 Total,2010 Rank,2010 Total,2011 Rank, Total,Percent change 2001-2011,Percent change 2010-2011
+"Atlanta, GA (Hartsfield-Jackson Atlanta International)",ATL,1,"36,384,264",1,"42,655,392",1,"33,034,788",-9.2,-22.6
+"Chicago, IL (Chicago O'Hare International)",ORD,2,"28,626,694",2,"30,033,313",2,"22,367,052",-21.9,-25.5
+"Dallas, TX (Dallas/Fort Worth International)",DFW,3,"25,198,256",3,"26,785,739",3,"20,430,281",-18.9,-23.7
+"Denver, CO (Denver International)",DEN,6,"16,397,390",4,"24,965,553",4,"19,190,341",17.0,-23.1
+"Los Angeles, CA (Los Angeles International)",LAX,4,"22,873,307",5,"22,860,849",5,"18,379,418",-19.6,-19.6
+"Phoenix, AZ (Phoenix Sky Harbor International)",PHX,5,"16,540,686",7,"18,657,891",6,"14,680,444",-11.2,-21.3
+"Charlotte, NC (Charlotte Douglas International)",CLT,19,"10,226,010",8,"18,539,589",7,"14,207,015",38.9,-23.4
+"Las Vegas, NV (McCarran International)",LAS,7,"16,121,009",9,"17,851,932",8,"13,929,834",-13.6,-22.0
+"Houston, TX (George Bush Intercontinental)",IAH,9,"15,639,781",6,"18,726,696",9,"13,920,435",-11.0,-25.7
+"San Francisco, CA (San Francisco International)",SFO,11,"13,862,994",10,"16,751,758",10,"12,916,195",-6.8,-22.9
+"New York, NY (John F. Kennedy International)",JFK,21,"9,647,313",11,"16,389,107",11,"12,737,380",32.0,-22.3
+"Minneapolis, MN (Minneapolis-St. Paul International/World-Chamberlain)",MSP,8,"15,648,295",14,"15,474,646",12,"12,117,506",-22.6,-21.7
+"Orlando, FL (Orlando International)",MCO,15,"12,619,918",12,"15,727,564",13,"12,040,406",-4.6,-23.4
+"Detroit, MI (Detroit Metropolitan Wayne County)",DTW,10,"15,467,124",13,"15,483,222",14,"11,711,660",-24.3,-24.4
+"Seattle, WA (Seattle-Tacoma International)",SEA,14,"12,705,320",16,"14,838,615",15,"11,666,453",-8.2,-21.4
+"Newark, NJ (Newark Liberty International)",EWR,12,"13,822,541",15,"14,927,554",16,"11,325,271",-18.1,-24.1
+"Miami, FL (Miami International)",MIA,16,"11,505,199",18,"14,007,849",17,"11,207,787",-2.6,-20.0
+"Philadelphia, PA (Philadelphia International)",PHL,17,"10,387,030",17,"14,703,670",18,"11,037,928",6.3,-24.9
+"Boston, MA (General Edward Lawrence Logan International)",BOS,20,"10,016,801",19,"12,282,374",19,"9,672,420",-3.4,-21.2
+"New York, NY (LaGuardia)",LGA,18,"10,311,470",20,"11,634,035",20,"8,646,321",-16.1,-25.7
+"Baltimore, MD (Baltimore/Washington International Thurgood Marshall)",BWI,22,"9,450,749",21,"10,754,424",21,"8,297,931",-12.2,-22.8
+"Fort Lauderdale, FL (Fort Lauderdale-Hollywood International)",FLL,28,"7,372,417",22,"10,036,422",22,"7,991,173",8.4,-20.4
+"Salt Lake City, UT (Salt Lake International)",SLC,25,"7,839,933",23,"9,910,042",23,"7,413,792",-5.4,-25.2
+"Washington, DC (Dulles International)",IAD,34,"5,753,870",24,"9,822,576",24,"7,150,715",24.3,-27.2
+"Chicago, IL (Chicago Midway)",MDW,30,"7,062,993",26,"8,469,677",25,"6,738,892",-4.6,-20.4
+"Washington, DC (Ronald Reagan Washington National)",DCA,33,"5,784,639",25,"8,630,921",26,"6,693,814",15.7,-22.4
+"San Diego, CA (San Diego International)",SAN,29,"7,254,291",27,"8,347,443",27,"6,233,324",-14.1,-25.3
+"Tampa, FL (Tampa International)",TPA,27,"7,458,091",28,"7,949,335",28,"6,017,993",-19.3,-24.3
+"Honolulu, HI (Honolulu International)",HNL,26,"7,794,787",29,"7,484,065",29,"5,666,153",-27.3,-24.3
+"Portland, OR (Portland International)",PDX,31,"6,005,120",30,"6,517,305",30,"5,041,875",-16.0,-22.6
+"St. Louis, MO (Lambert-St Louis International)",STL,13,"12,864,472",31,"6,013,884",31,"4,579,048",-64.4,-23.9
+"Kansas City, MO (Kansas City International)",MCI,36,"5,495,846",32,"4,938,386",32,"3,730,987",-32.1,-24.4
+"Milwaukee, WI (General Mitchell Field)",MKE,58,"2,557,598",34,"4,753,992",33,"3,615,279",41.4,-24.0
+"Houston, TX (William P. Hobby)",HOU,42,"4,120,895",40,"4,357,456",34,"3,508,108",-14.9,-19.5
+"Nashville, TN (Nashville International)",BNA,43,"4,080,700",38,"4,412,689",35,"3,477,547",-14.8,-21.2
+"Memphis, TN (Memphis International)",MEM,38,"4,786,581",33,"4,926,225",36,"3,340,385",-30.2,-32.2
+"Cleveland, OH (Hopkins International)",CLE,35,"5,528,785",35,"4,574,472",37,"3,313,734",-40.1,-27.6
+"Austin, TX (Austin-Bergstrom International)",AUS,47,"3,430,348",42,"4,200,766",38,"3,296,237",-3.9,-21.5
+"Oakland, CA (Oakland International)",OAK,37,"5,487,002",36,"4,566,953",39,"3,288,377",-40.1,-28.0
+"Raleigh, NC (Raleigh-Durham International)",RDU,41,"4,483,332",37,"4,434,774",40,"3,281,328",-26.8,-26.0
+"Sacramento, CA (Sacramento International)",SMF,44,"3,874,856",39,"4,391,998",41,"3,275,109",-15.5,-25.4
+"Santa Ana, CA (John Wayne-Orange County)",SNA,45,"3,618,717",41,"4,267,217",42,"3,166,917",-12.5,-25.8
+"New Orleans, LA (Louis Armstrong International)",MSY,39,"4,682,763",44,"4,081,146",43,"3,144,803",-32.8,-22.9
+"San Jose, CA (Norman Y. Mineta San Jose International)",SJC,32,"5,865,995",45,"3,992,074",44,"3,053,598",-47.9,-23.5
+"Pittsburgh, PA (Pittsburgh International)",PIT,23,"8,710,841",46,"3,986,065",45,"3,047,162",-65.0,-23.6
+"San Juan, PR (Luis Munoz Marin International)",SJU,40,"4,537,774",43,"4,151,370",46,"2,991,599",-34.1,-27.9
+"San Antonio, TX (San Antonio International)",SAT,51,"3,254,348",48,"3,861,772",47,"2,916,935",-10.4,-24.5
+"Dallas, TX (Dallas Love Field)",DAL,49,"3,350,775",49,"3,782,407",48,"2,866,109",-14.5,-24.2
+"Fort Myers, FL (Southwest Florida International)",RSW,59,"2,503,843",51,"3,610,618",49,"2,817,684",12.5,-22.0
+"Indianapolis, IN (Indianapolis International)",IND,48,"3,410,636",50,"3,716,884",50,"2,750,105",-19.4,-26.0

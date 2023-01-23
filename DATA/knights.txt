@@ -1,0 +1,6 @@
+Arthur:King:blue:The Grail:King of the Britons
+Galahad:Sir:red:The Grail:'I could handle some more peril'
+Lancelot:Sir:blue:The Grail:"It's too perilous!"
+Robin:Sir:yellow:Not Sure:He boldly ran away
+Bedevere:Sir:red, no blue!:The Grail:AARRRRRRRGGGGHH
+Gawain:Sir:blue:The Grail:none

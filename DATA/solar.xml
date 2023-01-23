@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<solarsystem>
+    <star>Sun</star>
+    <innerplanets>
+        <planet planetname="Mercury"/>
+        <planet planetname="Venus"/>
+        <planet planetname="Earth">
+            <moon>Moon</moon>
+        </planet>
+        <planet planetname="Mars">
+            <moon>Deimos</moon>
+            <moon>Phobos</moon>
+        </planet>
+    </innerplanets>
+    <asteroids>
+        <asteroid >Ceres</asteroid>
+        <asteroid >Pallas</asteroid>
+        <asteroid >Juno</asteroid>
+        <asteroid >Vesta</asteroid>
+    </asteroids>
+    <outerplanets>
+        <planet planetname="Jupiter">
+            <moon>Metis</moon>
+            <moon>Adrastea</moon>
+            <moon>Amalthea</moon>
+            <moon>Thebe</moon>
+            <moon>Io</moon>
+            <moon>Europa</moon>
+            <moon>Gannymede</moon>
+            <moon>Callista</moon>
+            <moon>Themisto</moon>
+            <moon>Himalia</moon>
+            <moon>Lysithea</moon>
+            <moon>Elara</moon>
+        </planet>
+        <planet planetname="Saturn">
+				<moon>Rhea</moon>
+				<moon>Hyperion</moon>
+				<moon>Titan</moon>
+				<moon>Iapetus</moon>
+				<moon>Mimas</moon>
+				<moon>Enceladus</moon>
+				<moon>Tethys</moon>
+				<moon>Dione</moon>
+				<moon>Enceladus</moon>
+        </planet>
+        <planet planetname="Uranus">
+				<moon>Ariel</moon>
+				<moon>Umbriel</moon>
+				<moon>Miranda</moon>
+				<moon>Titania</moon>
+				<moon>Oberon</moon>
+        </planet>
+        <planet planetname="Neptune">
+				<moon>Triton</moon>
+				<moon>Nereid</moon>
+				<moon>Proteus</moon>
+        </planet>
+    </outerplanets>
+    <dwarfplanets>
+        <planet planetname="Pluto">
+				<moon>Charon</moon>
+				<moon>Hydra</moon>
+				<moon>Nix</moon>
+        </planet>
+    </dwarfplanets>
+</solarsystem>
