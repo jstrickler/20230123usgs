@@ -15,13 +15,13 @@ formatter = logging.Formatter(
 
 
 # log to STDOUT for DEBUG and higher
-stream_handler = logging.StreamHandler(sys.stdout)
+stream_handler = logging.StreamHandler(sys.stderr)
 stream_handler.setLevel(logging.DEBUG)
 stream_handler.setFormatter(formatter)
 
 # log to a file for all levels INFO and higher
 file_handler = logging.FileHandler(LOG_FILENAME)
-file_handler.setLevel(logging.INFO)
+file_handler.setLevel(logging.WARNING)
 file_handler.setFormatter(formatter)
 
 

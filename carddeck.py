@@ -1,6 +1,9 @@
 import random
 
 class Card:
+    """
+    One playing card
+    """
     def __init__(self, rank, suit):
         self._rank = rank
         self._suit = suit
@@ -22,6 +25,11 @@ class Card:
 
 
 class CardDeck:  # inherits from 'object'
+    """
+    A deck of cards
+
+    Usage: blah blah blah
+    """
     RANKS = '2 3 4 5 6 7 8 9 10 J Q K A'.split()
     SUITS = 'Clubs Diamonds Hearts Spades'.split()
 
@@ -51,9 +59,9 @@ class CardDeck:  # inherits from 'object'
 
     def _make_deck(self):
         self._cards = list()
-        for suit in self.SUITS:
+        for s in self.SUITS:
             for rank in self.RANKS:
-                card = Card(rank, suit)
+                card = Card(rank, s)
                 self._cards.append(card)
 
     @property

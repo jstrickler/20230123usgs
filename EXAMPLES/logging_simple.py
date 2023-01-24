@@ -1,8 +1,8 @@
 import logging
 
 logging.basicConfig(
-    filename='../TEMP/simple.log',
-    level=logging.WARNING,
+    filename='../TEMP/simple.log',  # make custom log file name here...
+    level=logging.ERROR,
 )
 
 logging.warning('This is a warning') # message will be output

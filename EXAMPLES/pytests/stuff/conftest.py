@@ -8,3 +8,5 @@ def common_fixture():  # user-defined fixture
 
 def pytest_runtest_setup(item):  # predefined hook (all hooks start with __pytest__
     print("Hello from setup,", item)
+
+# pytest_plugins = '1', '2', '3'

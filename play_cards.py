@@ -1,3 +1,4 @@
+from pdb import set_trace
 from  carddeck import CardDeck
 from jokerdeck import JokerDeck
 
@@ -31,7 +32,7 @@ j1 = JokerDeck("Jimmy")
 print(f"j1: {j1}")
 j1.shuffle()
 print(f"j1.cards: {j1.cards}")
-
+# set_trace()  # jump into debugger
 print(len(d1), len(j1))
 print(repr(j1))
 

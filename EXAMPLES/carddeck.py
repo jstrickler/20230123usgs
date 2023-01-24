@@ -4,6 +4,13 @@ Provide a CardDeck object and some utility methods
 import random
 
 class Card:
+    """
+    One playing card.
+
+    Properties:
+    rank -- rank from 2 through ace
+    suit -- one of Hearts, Diamonds, Clubs, Spades
+    """
     def __init__(self, rank, suit):
         self._rank = rank
         self._suit = suit
@@ -28,7 +35,11 @@ class Card:
 
 class CardDeck:
     """
-    A deck of 52 cards for playing standard card games
+    A deck of cards. Usage:
+
+    d = CardDeck("Dealer Name")
+    d.shuffle()
+    card = d.draw()
     """
     # def __new__(): pass
     RANKS = '2 3 4 5 6 7 8 9 10 J Q K A'.split()

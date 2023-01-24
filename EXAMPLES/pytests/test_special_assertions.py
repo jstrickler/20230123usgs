@@ -1,5 +1,6 @@
 import pytest
 import math
+# from mypkg import MyObject, MyError  # ....
 
 FILE_NAME = 'IDONOTEXIST.txt'
 
