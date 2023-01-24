@@ -9,3 +9,6 @@ with open(FILE_PATH) as mary_in:
     file_contents = mary_in.read()
     s = {w.lower() for w in re.split(r'\W+', file_contents) if w} # Get unique words from file. Only one line is in memory at a time. Skip "empty" words.
 print(s)
+
+print(f"s: {s}")
+
