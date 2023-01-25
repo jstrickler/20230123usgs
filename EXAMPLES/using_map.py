@@ -10,3 +10,8 @@ print(result)
 
 result = list(map(len, strings))  # Using map to get list of string lengths
 print(result)
+
+x = map(len, strings)
+print(x)
+for item in x:
+    print(item)
