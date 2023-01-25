@@ -13,6 +13,8 @@ def main():
     sample_dates = generate_sample_dates()
     display_groups(sample_dates)
 
+    print(sample_dates[:10])
+
 
 def generate_sample_dates():
     '''

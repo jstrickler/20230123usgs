@@ -13,7 +13,7 @@ def process_list(alist, func):  # Define a function that accepts a list and a pa
     return new_list
 
 
-f1 = process_list(fruits, str.upper)  # Call process_list() with str.upper as the callback
+f1 = list(map(str.upper, fruits))  # Call process_list() with str.upper as the callback
 print(f1, "\n")
 
 f2 = process_list(fruits, lambda s: s[0].upper())  # Call process_list() with a lambda function as the callback

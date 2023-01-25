@@ -1,4 +1,3 @@
-#
 from operator import add, mul
 from functools import reduce
 
