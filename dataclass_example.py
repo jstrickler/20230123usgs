@@ -1,6 +1,6 @@
 from dataclasses import dataclass
 
-@dataclass
+@dataclass  # autogenerate __init__, __str__, __repr__, etc.
 class President:
     first_name: str
     last_name: str

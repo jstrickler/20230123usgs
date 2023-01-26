@@ -8,6 +8,8 @@ class Spam():
 def spam():
     return Spam()
 
+# pytest.register_fixture(spam)
+
 @pytest.fixture
 def colors():
     return ['pink', 'orange', 'purple', 'green']
