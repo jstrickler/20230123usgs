@@ -16,14 +16,16 @@ SEARCH_TERMS = [  # terms to search for; each thread will search some of these t
     'green', 'connect','vial', 'battery', 'computer',
     'sing', 'park', 'ladle', 'ram', 'dog', 'scalpel',
     'ocean', 'mesa', 'syncline', 'strata', 'igneous',
+    'humerus', 'blanket', 'cola', 'koala', 'collie',
+    'market', 'sty', 'sword'
 ]
 def main():
     for function in get_data_threaded, get_data_serial:
         start_time = time.time()
         results = function()
-        total_time = time.time() - start_time
+        total_time = time.time() - start_time  # get actual network request time, not output time
         for search_term, result in zip(SEARCH_TERMS, results):  # iterate over results, mapping them to search terms
-            results = function()
+            # results = function()    D'OH!!!!
             print("{}:".format(search_term.upper()), end=" ")
             if result:
                 print(result)
