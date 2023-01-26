@@ -4,10 +4,14 @@ from collections import Counter, defaultdict, deque, namedtuple, OrderedDict
 with open('../DATA/words.txt') as words_in:
     all_words = [line[0] for line in words_in]
     word_counter = Counter(all_words)  # Count list of words by passing iterable of words to Counter instance
-
+    word_counter['*'] += 1
+    word_counter['*'] += 1
+    word_counter['?'] += 1
 
 print(word_counter.most_common(10))  # Counter.most_common() return n most common occurrences
+print(word_counter)
 print('-' * 60)
+
 
 # defaultdict
 fruits = ["pomegranate", "cherry", "apricot", "date", "apple",
@@ -43,12 +47,12 @@ print('-' * 60)
 
 
 # namedtuple
-President = namedtuple('President', 'first_name, last_name, party')  # Create named tuple with specified fields
+President = namedtuple('President', 'first_name last_name party')  # Create named tuple with specified fields
 p = President('Theodore', 'Roosevelt', 'Republican')  # Create instance of named tuple
 print(p, len(p))
 print(p[0], p[1], p[-1])
 print(p.first_name, p.last_name, p.party)  # Access tuple fields by name
-
+print(President.__name__)
 p = President(last_name='Lincoln', party='Republican', first_name='Abraham')
 print(p)
 print(p.first_name, p.last_name)

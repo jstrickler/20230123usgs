@@ -2,6 +2,9 @@ from abc import ABCMeta, abstractmethod
 
 class Animal(metaclass=ABCMeta):  # metaclasses control how classes are created; ABCMeta adds restrictions to classes that inherit from Animal
 
+    def spam(self):
+        pass
+
     @abstractmethod   # when decorated with @abstractmethod, speak() becomes an abstract method
     def speak(self):
         pass

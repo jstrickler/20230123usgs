@@ -10,7 +10,7 @@ class StrDict(dict):
 
         key = key.strip().lower()
         value = value.strip().lower()
-        super(StrDict, self).__setitem__(key, value)
+        super().__setitem__(key, value)
 
 if __name__ == '__main__':
     s = StrDict()
