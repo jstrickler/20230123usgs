@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-
+import sys
 from president import President
 
 for pres_term in 1, 26, 37:
