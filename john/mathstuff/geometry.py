@@ -11,6 +11,18 @@ import math   # load math.py
 
 PI = math.pi
 
+class Foo:
+    animal = "wombat"
+    # instance method
+    def spam(self):
+        print("spam!")
+        print(self.animal)
+
+    @classmethod
+    def ham(cls):
+        print("ham!")
+        print(Foo.animal)
+
 def circle_area(diameter):
     """
     Compute the area of a circle from a given diameter
@@ -39,3 +51,11 @@ def square_area(side):
     :return: Area of square
     """
     return side * 2
+
+print(f"MY NAME IS {__name__}")
+
+if __name__ == '__main__':
+    # if executed with interpreter, rather than imported
+    x = circle_area(45)
+    print(f"x: {x}")
+

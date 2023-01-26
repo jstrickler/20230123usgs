@@ -1,6 +1,5 @@
 from lxml.etree import iterparse
 
-
 def main():
     # Create a 'context' -- start the parser, skipping all but specified tag
     doc = iterparse("../BIG_DATA/pubmed19n0001.xml", tag='PubmedArticle')

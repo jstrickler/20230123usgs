@@ -8,6 +8,8 @@ with open('../DATA/words.txt') as words_in:
 
 random.shuffle(WORDS) # shuffle the word list
 
+animal = 'aardvark'
+
 def my_task(word):  # function to apply to each element
     return word.upper()
 

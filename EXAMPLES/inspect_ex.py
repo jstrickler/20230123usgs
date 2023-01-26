@@ -1,5 +1,5 @@
 import inspect
-import geometry
+from py3usgs.john.mathstuff import geometry
 from carddeck import CardDeck
 
 deck = CardDeck("Leonard")

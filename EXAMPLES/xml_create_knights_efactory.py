@@ -25,7 +25,7 @@ def get_knight_info():
 
 def build_tree(knight_recs):
     '''Build the new XML document'''
-    tree = ET.Element('knights')
+    tree = E.knights()
     for knight_rec in knight_recs:
         knight = E.knight(  # create <knight> tag
             E.title(knight_rec[1]),  # nest other tags inside <knight>

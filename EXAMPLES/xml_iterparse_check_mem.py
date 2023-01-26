@@ -9,7 +9,7 @@ def main():
     for i, (event, element) in enumerate(doc, 1):  # Loop over (and count) found elements
         year_completed = element.findtext('.//DateCompleted/Year')  # Get text from subelement
         month_completed = element.findtext('.//DateCompleted/Month')
-        clear_element(element)
+        # clear_element(element)
         current_mem_use = mem_checker() # Get current memory use
 
         print("{:5d}. {}/{} {}".format(i, month_completed, year_completed, current_mem_use))
