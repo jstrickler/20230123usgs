@@ -30,7 +30,7 @@ print("a + b")
 print(a + b)  # add every element of a to the corresponding element of b
 print()
 
-print("b + 3")
+print("b[0] += 3")
 print(b + 3)  # add 3 to every element of b
 print()
 

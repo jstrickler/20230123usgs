@@ -26,7 +26,7 @@ print_header("df.loc['b']")  # one row
 print(df.loc['b'], '\n')
 
 print_header("df.loc[:,'delta']")  # one column
-print(df.loc[:,'delta'], '\n')
+print(df.loc['b':'d',['delta', 'alpha']], '\n')
 
 
 print_header("df.loc['b': 'd']")  # range of rows

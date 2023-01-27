@@ -25,3 +25,7 @@ print('a =>', a, '\n')
 print("a[a < 15] += 10")
 a[a < 15] += 10  # add 10 to elements < 15
 print(a, '\n')
+
+print(a.base)
+m = a[0]
+print(m.base)

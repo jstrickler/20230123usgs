@@ -1,6 +1,6 @@
 import numpy as np
 
-r1 = np.arange(45)  # create array -- arange() defaults to int
+r1 = np.arange(45, dtype=np.float32)  # create array -- arange() defaults to int
 r1.shape = (3, 3, 5)  # create array -- passing float makes all elements float
 print('r1 datatype:', r1.dtype)
 print('r1 =>\n', r1, '\n')
