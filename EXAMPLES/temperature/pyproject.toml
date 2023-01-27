@@ -1,0 +1,41 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+# the above is required 
+
+##################################################
+# useful when only using this file, not setup.cfg
+##################################################
+
+[project]
+name = "temperature"
+version = "1.0.0"
+authors = [
+    { name="John Strickler", email="jstrickler@gmail.com" },
+]
+description = "Temperature conversion functions"
+readme = "README.md"
+requires-python = ">=3.0"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+dependencies = [
+    'roman >= 3.0',
+#    'requests[security] < 3',
+#    'subprocess32; python_version < "3.2"',
+]
+
+#[tool.setuptools]
+#packages=["temperature"]
+
+[project.scripts]
+c2f='temperature:convert._c2f_cli'
+f2c='temperature:convert._f2c_cli'
+
+[project.urls]
+"Homepage" = "https://github.com/jstrickler/20221024USGS"
+
