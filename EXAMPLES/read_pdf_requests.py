@@ -19,4 +19,4 @@ if response.status_code == requests.codes.OK:  # check status code
         else:
             cmd = 'acroread ' + saved_pdf_file
 
-        run(cmd.split())  # run requires command to be split into words
+        run(cmd, shell=True)  # run requires command to be split into words

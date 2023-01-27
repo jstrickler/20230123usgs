@@ -1,9 +1,8 @@
-
 import requests
 
 URL = 'http://www.python.org'
 
-response = requests.get(URL)
+response = requests.get(URL, timeout=1.5)
 
 if response.status_code == requests.codes.OK:
 

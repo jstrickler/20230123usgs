@@ -1,4 +1,3 @@
-
 import paramiko
 
 with paramiko.SSHClient() as ssh:  # create paramiko client

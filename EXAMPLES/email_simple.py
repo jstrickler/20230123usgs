@@ -16,7 +16,8 @@ Testing email from Python
 """.format(TIMESTAMP)
 
 SMTP_USER = 'pythonclass'
-SMTP_PASSWORD = getpass("Enter SMTP server password:")  # get password (not echoed to screen)
+# SMTP_PASSWORD = getpass("Enter SMTP server password:")  # get password (not echoed to screen)
+SMTP_PASSWORD = "Gr3@t$tud3nt"
 
 smtp = smtplib.SMTP("smtp2go.com", 2525)  # connect to SMTP server
 smtp.login(SMTP_USER, SMTP_PASSWORD)  # log into SMTP server
